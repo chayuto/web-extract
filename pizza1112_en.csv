@@ -1,0 +1,424 @@
+store_uid,store_id,store_number,name,address,lat,lng,open_time,close_time,store_type,has_tx
+1147,2561,203214,Pizza Com Ratchabophit,"No.148 Ratchabophit Rd., Wangburapa, Pra Nakorn, Bangkok 10200",13.7494520,100.4990770,10:00:00,22:00:00,DLC,False
+1133,1236,201068,Pizza Com Banglumpoo,"No.158-160 Rammabudtri Rd., Taladyod, Pranakorn, Bangkok 10200",13.7595440,100.4984930,10:00:00,00:30:00,RBD,False
+198,2864,203223,Pizza Com Market Place Dusit,"Market Place Dusit, Wachiraphayaban, Dusit, Bankok 10330",13.7786720,100.5080730,,,DLC,False
+318,1428,203103,Pizza Com Suwintawong,"No.25/13 Moo 3 Lampakchee, Nongchok, Bangkok 10530",13.8410750,100.8557350,10:00:00,00:30:00,DLC,False
+1151,2636,203219,Pizza Com PTT Suwintawong,"PTT Suwintawong Km.36 No.89/8 Moo 8 Chokfad, Nokchoke Bangkok 10530",13.8088730,100.8069950,,,DLC,False
+382,2400,203194,Pizza Com United Center Silom,"United Cemter Building B Fl. Unit B101 No.323 Silom Rd., Silom, Bangrak, Bangkok 10500",13.7271540,100.5313430,10:00:00,22:00:00,DLC,False
+324,1434,203115,Pizza Com Silom Soi 22,"No.284/1-2 Soi Silom 22/1, Silom Rd., Suriyawong, Bangrak, Bangkok 10500",13.7244290,100.5223500,10:00:00,22:00:00,DLC,True
+1134,1256,203015,Pizza Com Ying Charoen Market,No.651 Paholyothin Road Sub-District Anusawaree District Bangkhaen Bangkok 10220,13.8981248,100.6097983,10:00:00,00:30:00,DLC,False
+472,1417,203093,Pizza Com Ladplakao,"No 9/141-142 Ranintra Km.2 Rd., Anusawaree, Bangkaen, Bangkok 10230",13.8636470,100.6142060,10:00:00,00:30:00,DLC,False
+1218,3057,203234,Pizza Com Lotus Bangkapi,"Tesco Lotus Bangkapi No. 3109 Ladprao Rd., Klomhchan, Bangkapi, Bangkok 10240",13.7681570,100.6440260,,,DLC,False
+537,1909,203148,Pizza Com The Park,"The Park No.217 Krungthep-Kritha Rd., Hua Mak, Bangkapi, Bangkok 10240",13.7470100,100.6614110,10:00:00,00:30:00,DLC,False
+325,1437,203114,Pizza Com Ramkhamhaeng 24,"No.322 Ramkramhang 24 Rd., Huamak, Bangkrapi, Bangkok 10240",13.7533160,100.6213030,10:00:00,00:30:00,DLC,False
+407,1384,270511,Pizza Com Lotus Chareonpol,"Tesco Lotus Rama 1 No.831 Rama 1 Rd., Wangmai, Phathumwan, Bangkok 10330",13.7475120,100.5248940,10:00:00,22:00:00,RBD,False
+1404,3248,272124,Pizza Com Samyan Mitrtown,"No. 944/1 Phaya Thai Rd., Wang Mai, Pathumwan, Bangkok, 10330",13.7338895,100.5286290,,,FSR,False
+287,1307,203042,Pizza Com Phlap Phla Chai,"No.9/1 Phab Phla Chai Rd., Pom Prap, Pom Prap Sattru Phai, Bangkok 10110",13.7455790,100.5110670,10:00:00,00:30:00,DLC,False
+1175,2319,203189,Pizza Com The Phyll Sukhumvit 54,"No.2/3 Soi Sukhumvit 54 Bangchak, Phrakanhong, Bangkok 10260",13.7027750,100.6019580,10:00:00,00:30:00,DLC,False
+600,1286,203032,Pizza Com Minburi,"No.382 Moo 13 Minburi, Minburi, Bangkok 10510",13.8129490,100.7279460,10:00:00,00:30:00,DLC,False
+1443,3304,203236,Pizza Com Robinson Ladkrabang,"Robinson Ladkrabang No.71 Ladkrabang Rd., Ladkrabang, Ladkrabang, Bangkok 10250",13.7206120,100.7246290,,,DLC,False
+273,1294,203036,Pizza Com Ladkrabang,"No.163/9 Moo 1 Ladkrabang, Ladkrabang, Bangkok 10520",13.7217660,100.7834620,10:00:00,00:30:00,DLC,False
+315,1421,203095,Pizza Com Kaha Romklao,"No.78/45-46 Keha Romklao Rd., Khlongsongtonnun, Ladkrabang, Bangkok 10520",13.7661476,100.7224900,10:00:00,22:00:00,DLC,False
+355,2163,203167,Pizza Com I-Place,"No.1 Soi Chalongkrung 31 Chalongkrung Rd., Lumpratuie, Ladkrabang, Bangkok 10520",13.7556510,100.7974570,10:00:00,22:00:00,DLC,False
+578,1332,201049,Pizza Com Central Rama 3,"Central Rama 3 Room 221, 222 No.79/106-107 Sathupradit Rd., Chong Nonsi, Yannawa, Bangkok 10120",13.6982550,100.5380820,10:00:00,21:00:00,RBD,False
+473,1380,203067,Pizza Com Market Place Nanglinchee,"Market Place Nanglinchee Room 114-115 No.27, 27/1 Nanglinchee Rd., Chong Nonsi, Yannawa, Bangkok 10120",13.7100220,100.5430310,10:00:00,22:00:00,DWS,False
+272,1278,203027,Pizza Com Sathupradit,"No.664/25 Soi Sathupradit 55, Sathupradit Rd., Bang Pongpang, Bang Pongpang, Bangkok 10120",13.6814950,100.5314120,10:00:00,22:00:00,DLC,False
+148,2844,272533,Pizza Com Sapankwai,"No.24 Soi Intramara 1, Sutthisarnvinitchai Rd., Samsen, Phayathai, Bangkok 10400",13.7896197,100.5501770,,,DLC,False
+189,2624,203217,Pizza Com Ari Hills,"Ari Hills Building 2nd Fl. No.428 Phahonyothin Rd., Samsaennai, Payathai, Bangkok 10400",13.7847590,100.5467270,,,DLC,False
+1138,1266,201011,Pizza Com The Mall Thapra,"No. 129 Room 346  3rd Fl. Ratchadapisek Rd. (Thapra-Taksin), Bukkalo Thonburi Bangkok 10600",13.7144075,100.4800209,10:00:00,22:00:00,FSR,False
+369,2246,203184,Pizza Com Taladplu,"No.1259 Tedthai Rd., Taladphu, Thonburi, Bangkok 10600",13.7202086,100.4757449,10:00:00,00:30:00,DLC,False
+1172,2312,201111,Pizza Com Riverside Plaza,"Riverside Plaza 2nd Floor, Room 205 No.257 Charoen Nakorn Rd., Samrae, Thonburi, Bangkok 10600",13.7053420,100.4907370,10:00:00,22:00:00,RBD,False
+277,1282,203029,Pizza Com Charansanitwong Soi 12,"No.44/68 Charansanitwong Rd., Watthapra, Bangkokyai, Bangkok 10600",13.7397320,100.4708360,10:00:00,00:30:00,DLC,False
+487,1892,203147,Pizza Com The Ninth Rama 9,"No.33/4 Rama 9 Rd., Hauay Kwang, Hauay Kwang, Bangkok 10310",13.7592280,100.5681700,10:00:00,00:30:00,DLC,False
+1166,1906,201091,Pizza Com Central Rama 9,"No.9/9 Rama 9 Rd., HuaiKhwang, HuaiKhwang, Bangkok 10320",13.7579240,100.5658760,10:00:00,22:00:00,FSR,False
+364,2205,203174,Pizza Com Meng-Jai,"No.507-509 Sam Sen Nok, Huai Khwang, Bangkok 10310",13.7719920,100.5808990,10:00:00,00:30:00,DLC,False
+530,1415,203090,Pizza Com Wongweinyai,"No.101 Ladya Rd., Somdetchaopraya, Klongsan, Bangkok 10600",13.7264510,100.4943910,10:00:00,22:00:00,DLC,False
+153,2674,203221,Pizza Com Saitai Mai,No. 24/6 Moo.8  Flor1 Tower Somprasong  Saitaimai Station Boromrajchonnanee Road Chimpree Talingchan Bangkok 10170,13.7801400,100.4237700,,,DLC,False
+541,2432,203203,Pizza Com Prannok,"No.307/1-2 Itsaraphap Rd., Banchanglor, Bangkoknoi, Bangkok 10700",13.7556810,100.4778730,10:00:00,00:30:00,DLC,False
+1186,2247,203185,Pizza Com Tha-Kham,"No.79/3 Tha Kham Rd., Tha Kham, Bang Khun Thian, Bangkok 10150",13.6517850,100.4437080,10:00:00,22:00:00,DLC,False
+469,2514,270821,Pizza Com Lotus Rama 2,"Lotus Rama 2 No.88/2528 Moo 6, Rama 2 Rd., Samamdam, Bangkhunthien, Bangkok 10150",13.6478170,100.4190990,10:00:00,22:00:00,FSR,False
+229,1358,201066,Pizza Com Central Rama 2,"Central Rama 2 No.160 Moo 6ม G Floor, Room No. G42-G43., Samae Dum, Bang Khunthian, Bangkok 10150",13.6629540,100.4374850,10:00:00,21:00:00,FSR,False
+283,2964,203220,Pizza Com Bangkradi,"77/319 Thnn Bangkridi Khaewng Samae Dam Subdistrict, Bang Khun Thuan District Bangkok",13.6310170,100.4000930,,,DLC,False
+294,1309,203044,Pizza Com PTT Sakae-Ngam,"PTT Sakaegham Service Station No.1 Soi Sakaegham 14, Sakaegham Rd., Samaedam, Bangkhuntien, Bangkok 10150",13.6376560,100.4174020,10:00:00,00:30:00,DLC,False
+580,1986,201094,Pizza Com Seacon Bangkae,"Seacon Bangkae unit 103 No.607 Phetkasem Rd., Bang Wa, Phasi Charoen, Bangkok 10160",13.7117500,100.4342320,10:00:00,21:00:00,FSR,False
+116,2214,203179,Pizza Com Charansanitwong Soi 13,"No.679 Soi Charansanitwong 13 , Charansanitwong Rd., Bang Waek, Phasi Charoen, Bangkok 10160",13.7371990,100.4330460,10:00:00,22:00:00,DLC,False
+275,1272,203022,Pizza Com Bangbon 5,"No.315, 317 Ma-Charoen Rd., Nongkhaem, Nongkhaem, Bangkok, 10160",13.6770440,100.3455240,10:00:00,22:00:00,DLC,False
+557,2641,270096,Pizza Com Lotus Bangpakok,"Tesco Lotus Bangpakok No.538/2 Moo 4, Bangpakok, Ratchaburana, Bangkok, 10140",13.6773790,100.5012990,,,FSR,False
+343,2069,203159,Pizza Com Bangpakaew,"No.373 Suksawat Rd., Bang Pakok, Rat Burana, Bangkok 10140",13.6869530,100.4860910,10:00:00,00:30:00,DLC,False
+154,1377,270053,Pizza Com Lotus Charansanitwong,"Tesco Lotus Charansanitwong No.244 Charansanitwong Rd., Bangplad, Bangplad, Bangkok 10700",13.7880590,100.5022000,10:00:00,22:00:00,RBD,False
+383,2433,203205,Pizza Com Bangplad,"No.367 Charansanitwong Rd., Bangbumrhu, Bangplad, Bangkok 10700",13.7798332,100.4872114,10:00:00,00:30:00,DLC,False
+376,2398,203196,Pizza Com Intamara,"No.1291, 1293 Sudthisarnvinitchai, Dindaeng, Dindaeng, Bangkok 10400",13.7897260,100.5678050,10:00:00,22:00:00,DLC,False
+349,1945,203149,Pizza Com Prachasongkro,"No.4677-4679 Prachasongkhro Rd., Dindang, Dindang, Bangkok 10400",13.7701070,100.5593810,10:00:00,00:30:00,DLC,False
+476,1238,203010,Pizza Com Sukhapiban 1,"No.70/264-265 Moo 5 Sukhapiban 1 Rd., Klongkum, BuengKum, Bangkok 10240",13.7958200,100.6507230,10:00:00,22:00:00,DLC,False
+328,1441,203124,Pizza Com Nuanchan,"No.51/31 Nuanjan Rd., Nuanjan, Bungkum, Bangkok 10241",13.8267310,100.6402700,10:00:00,22:00:00,DLC,False
+329,1443,203109,Pizza Com Saintlouis 3,"No.97 Soi Chan 18/7(Saintlouis 3), Chan Rd., Thungwatdonm, Sathon, Bangkok 10120",13.7089120,100.5266620,10:00:00,00:30:00,DLC,False
+509,2666,270922,Pizza Com Gateway Bangsue,"No.162/1-2, 168/10 Pracharat Sai 2 Rd., Bangsue, Bangsue, Bangkok 10800",13.8057530,100.5240000,,,FSR,False
+350,2071,203160,Pizza Com Kaset,"1949-1950 Phaholyothin Rd., Ladyao Sub District, Jatujak District, Bangkok 10900",13.8392630,100.5751630,10:00:00,00:30:00,DLC,False
+297,1328,203057,Pizza Com Prachachuen,"No.12/2-3 Tadsabansongkro Rd., Ladyao, Chatujak, Bangkok 10900",13.8407260,100.5456350,10:00:00,00:30:00,DLC,False
+405,1370,270111,Pizza Com Big C Ladprao,"Big C Extra Super Center Ladprao Room RT-7 No.669 Ladprao Rd., Ladyao, Jatujak, Bangkok 10900",13.8097930,100.5683130,10:00:00,22:00:00,RBD,False
+122,2546,270057,Pizza Com JJ Mall,"JJ Mall 588 F Floor, Room F49 Kamphengphet 2 Rd., Chatujak, Chatujak, Bangkok 10900",13.8018000,100.5487150,10:00:00,22:00:00,RBD,False
+1162,1329,203058,Pizza Com Charoenkrung 72,"No.2000/5 Soi Chareonkrung 72 Chareonkrung Rd., Wat Prayakrai, Bangkoalaem, Bangkok 10120",13.7074720,100.5084280,10:00:00,22:00:00,DLC,False
+83,1293,203035,Pizza Com Chalermprakiet 72,"No.243/3 Moo 7, Chalermprakiet R.9 Rd., Pravet, Pravet, Bangkok 10520",13.7155345,100.6964254,10:00:00,22:00:00,DLC,False
+332,1431,203111,Pizza Com Onnut 70/1,"No.199/2 Soi Onnut 70/1, Onnut Rd., Pravet, Pravet, Bangkok 10250",13.7158310,100.6540330,10:00:00,00:30:00,DLC,False
+1143,1270,201036,Pizza Com Seacon Square,"904 4th Srinakarin Rd., Nongbon Pravet Bangkok 10250",13.6950700,100.6479530,10:00:00,21:00:00,FSR,False
+204,1268,201027,Pizza Com Paradise Park,"Paradise Park No.12/90 Moo 6 Srinakarin Rd., Nongbon, Pravet, Bangkok 10250",13.6876960,100.6476430,10:00:00,21:30:00,RBD,False
+1161,1382,203069,Pizza Com Ramkhamhaeng 2,"No.218 Room 1-01 Moo 8 Ramkramhang 2 Rd., Dokmai Pravet Bangkok 10250",13.6679110,100.6832780,10:00:00,00:30:00,DLC,False
+1130,1237,203006,Pizza Com Sukhumvit 71,"No.1000/6-7 Soi Sukhumvit 71 Sukhumvit Rd., Klongton, Klongtoei, Bangkok 10110",13.7333470,100.5974310,10:00:00,00:30:00,DLC,False
+388,2488,203208,Pizza Com Plearn Park,"Suanplern Market No.3654, Rama IV Rd., Klongton, Klongtoey, Bangkok 10110",13.7165900,100.5715600,10:00:00,22:00:00,DLC,False
+278,1388,203073,Pizza Com Rama 4,"No.4322-4324 Rama 4 Rd., Prakhanong, Klongtoey, Bangkok 10110",13.7128110,100.5854330,10:00:00,00:30:00,DLC,True
+245,1531,201085,Pizza Com Max Value Srinakarin,"Max Value Srinakarin No.2665 Srinakarin Rd., Suanluang, Suanluang, Bangkok 10250",13.7362150,100.6415330,10:00:00,22:00:00,RBD,False
+313,1411,203087,Pizza Com People Park,"People Park Community Mall No.486 Soi Sukhumvit 77 (Soi Onnut 10), Sukhumvit Rd., Suanluang, Suanluang, Bangkok 10250",13.7120520,100.6080230,10:00:00,00:30:00,DLC,False
+281,1305,203040,Pizza Com Jomthong,"No.73/131 Moo 1 Jomthong Rd., Jomthong, Jomthong, Bangkok 10150",13.6985380,100.4705830,10:00:00,22:00:00,DLC,False
+1136,1249,203018,Pizza Com Donmuang,"No.310/86-87 Moo 3 Songprapa Rd., Srikan, Donmuang, Bongkok 10210",13.9251550,100.5942140,10:00:00,00:30:00,DLC,False
+84,2679,272102,Pizza Com Center One,"Center One 3rd Floor, Room 302 No.1 Soi Lertpanya, Ratvithi Rd., Payathai, Ratthevi, Bangkok 10400",13.7640140,100.5393970,,,FSR,False
+517,1326,203133,Pizza Com Pratunam,"No.651, 651/1 Soi Phetburi 15, Phetburi Rd., Phayathai, Rajtthewe, Bangkok 10400",13.7517280,100.5365300,10:00:00,00:30:00,DLC,False
+1808,3569,272143,Pizza Com Pantip Plaza Pratunam,"1st Fl. Room 135-136 No.604/6 Phetchaburi Rd., Thanon Phetchaburi, Ratchathewi Bangkok 10400",13.7506200,100.5373800,,,FSR,False
+1164,1435,203116,Pizza Com Lotus Ramintra,"Tesco Lotus Ramintra No.59 Praditmanutham Rd., Ladprao, Ladprao, Bangkok, 10260",13.8003380,100.6135600,10:00:00,22:00:00,DLC,False
+489,2545,203210,Pizza Com Jas Wanghin,"Jas Wanghin Room A111, No.728 Ladprao-Wanghin Rd., Ladprao, Ladprao, Bangkok 10230",13.8234460,100.5922440,10:00:00,22:00:00,DLC,False
+247,1764,201088,Pizza Com Nana Square,"Nana Square Room 1-15-18, No.49 Sukhumvit Rd., Klongtoei, Wattana, Bangkok 10110",13.7425110,100.5526700,10:00:00,00:30:00,RBD,False
+125,2155,203166,Pizza Com Midtown Asoke,"Grand Park View Asoke Bldg. No.189/1 Sukhumvit 21 Rd., Klongtoeynua, Wattana, Bangkok 10110",13.7434940,100.5618860,10:00:00,00:30:00,DLC,False
+230,1360,203065,Pizza Com Sukhumvit 47,"No.879 Soi Sukhumvit 47, Sukhumvit Rd., Klongton Nue, Wattana, Bangkok 10110",13.7272460,100.5746160,10:00:00,00:30:00,DLC,False
+1170,1914,203151,Pizza Com The Explace Kanchanapisek,"The Explace Kanchanapisek Room A11-111 No.60/1 Kalapapruk Rd., Bangkae, Bangkae,
+Bangkok 10160",13.6939950,100.4082750,10:00:00,22:00:00,DLC,False
+178,2610,270851,Pizza Com Major Petchkasem,"Phetchakasem Power Center No.611/1 Moo 10 Petchkrasem Rd., Bankae, Bangkae, Bangkok 10160",13.7065870,100.3815810,,,FSR,False
+567,1299,201028,Pizza Com The Mall Bangkae,"The Mall Bangkae No.275 Moo 1, Phetchakasem Rd., Bangkaenuea, Bangkae, Bangkok 10160",13.7132050,100.4079340,10:00:00,22:00:00,FSR,False
+1169,2314,203188,Pizza Com Victoria Gardens,"Victoria Gardens Room J, No.108 Phechkasem Rd., Laksuang, Bangkae, Bangkok 10160",13.7066260,100.3745020,10:00:00,00:30:00,DLC,False
+152,2700,203222,Pizza Com IT Square Laksi,"No.333/103 Moo 4, Talad Bangkhen, Laksi, Bangkok 10210",13.8868790,100.5812090,,,DLC,False
+366,2220,203180,Pizza Com Plum Changwattana,"Plum Condo Mixed Chaengwattana, No.349/4-5 Soi Chaengwattana 1, Chaengwattana Rd., Talad Bangkhen, Laksi , Bangkok 10210",13.8810970,100.5867550,10:00:00,00:30:00,DLC,False
+314,1412,203088,Pizza Com Wongsakorn,"No.48/45 Moo 1 Saimai Rd., Saimai, Saimai, Bangkok 10220",13.9214500,100.6840670,10:00:00,00:30:00,DLC,False
+1213,3051,203235,Pizza Com Big C Sukhapiban 5,"Big C Super Center Sukhapiban 5 No.98/1-3, Moo 4, Sukhapiban5 Road, O-Ngoen, Sai Mai, Bangkok 10220",13.8886000,100.6560000,,,DLC,False
+118,1353,270021,Pizza Com Fashion Island,"Fashion Island 3rd Floor Room 1027 No.587, 589 Ramintra Rd., Kannayao, Kannayao, Bangkok 10230",13.8260780,100.6779980,10:00:00,09:00:00,FSR,False
+2526,4160,203243,Pizza Com Amorini Ramintha,"No. 1 Amorini Fl.1 Room 107 Suan Sayam Rd, Khan Na Yao, Khan Na Yao,Bangkok 10230",13.8136700,100.6876000,,,DLC,False
+274,1255,203013,Pizza Com Ramintra Km.8,"No.206/4 Kubon Rd., Kannayao, Kannayao, Bangkok 10230",13.8404260,100.6620350,10:00:00,00:30:00,DLC,False
+98,1276,203026,Pizza Com Sukhapiban 3,"No.59/341 Sukhapiban 3 Rd., Sapansung, Sapansung, Bangkok 10240",13.7907020,100.7028090,10:00:00,00:30:00,DLC,False
+1132,1257,203012,Pizza Com Lotus Ladprao 120,"No. Soi Ladprao 120 , Ladprao Road , Plabpla , Wongthonglang Bangkok 10310",13.7782290,100.6231350,10:00:00,00:30:00,DLC,False
+384,2435,203190,Pizza Com The Scene Town in Town,"The Scene Town In Town Room A225, No.1323 Soi Ladprao 94(Panjamit), Ladprao Rd., Phlapphla, Wangthonglang, Bangkok 10310",13.7727447,100.6098580,10:00:00,22:00:00,DLC,False
+371,1426,203101,Pizza Com Hathairaj,"No.98/4 Soi Hathairaj 8, Hathairaj Rd., Bangchan, Klongsamwa, Bangkok 10510",13.8229039,100.7204392,10:00:00,00:30:00,DLC,False
+97,2643,203218,Pizza Com Safari World,"No.361/1 Leab Klong 2 Rd., Bangchan, Klongsamwa, Bangkok 10510",13.8606381,100.7070089,,,DLC,False
+334,1770,203136,Pizza Com Soi Lasall,"No.525, 527 Lasan Rd., Bangna, Bangna, Bangkok 10260",13.6628290,100.6171700,10:00:00,00:30:00,DLC,False
+110,1296,203038,Pizza Com One Udomsuk,"No.38 Oneudomsuk  Soi Udomsuk 1, Sukhumvit  Rd., Bangna Prakanong Bangkok 10260",13.6794920,100.6098960,10:00:00,00:30:00,DLC,False
+1140,1267,201026,Pizza Com Central Bangna,"Central Bangna 5th Floor, No.1091 Moo 12, Bangna-Trad Rd., Bangna, Bangna, Bangkok 10260",13.6695630,100.6343210,10:00:00,21:00:00,FSR,False
+1189,2963,203233,Pizza Com Boonthavorn Pinklao,"Boonthavorn Pinklao 1st Floor, No.29/41 Boromarajonani Rd., Taweewattana, Taweewattana, Bangkok 10170",13.7863350,100.3725870,,,DLC,False
+267,2194,201107,Pizza Com The Paseo Kanchanapisek,เดอะพาซิโอ กาญจนาภิเษก เลขที่ 8/9 ถนนกาญจนาภิเษก แขวงศาลาธรรมสพน์ เขตทวีวัฒนา กรุงเทพฯ 10170,13.7672890,100.4063010,10:00:00,22:00:00,RBD,False
+1158,1311,203046,Pizza Com Prachautis 45,"839 Prachauthis Road, Bangmod, Thungkru, Bangkok, 10140",13.6517680,100.4969740,10:00:00,00:30:00,DLC,False
+1144,1762,203143,Pizza Com Prachautis 90,"No.8/4-5 Soi Pracha-Uthit 90, Phacha-Uthit Rd., Thungkru, Thungkru, Bangkok 10140",13.6113892,100.5105591,10:00:00,22:00:00,DLC,False
+1146,1273,203023,Pizza Com Bangbon,"Future Bangbon Center No.48/26 Moo 6 Ekachai-Bangbon Rd., Bangbon, Bangbon, Bangkok 10150",13.6724890,100.4260640,10:00:00,00:30:00,DLC,False
+1898,3615,272558,Pizza Com Paknam,"No.31,35 Srisamut Rd., Paknam, Muang Samutprakarn, Samutprakarn 10270",13.5969990,100.5969760,,,DLC,False
+1894,3610,272150,Pizza Com Lotus Samutprakarn,"Tesco Lotus Samutprakarn No.156/6 Sailuad Rd., Paknam, Muang, Samutprakarn 10270",13.5877430,100.5980260,,,RBD,False
+1139,1264,201021,Pizza Com Imperial World Samrong,"Imperial Samrong Room AB 11, 21, 22 No.999 Sukhumvit Rd., Samrongnuea, Mueng,  Samutprakran 10270",13.6506280,100.5955510,10:00:00,21:00:00,RBD,False
+1149,1766,203144,Pizza Com Lotus Bangpoo,"Tesco Lotus Bangpoo No.2502 Moo 3, Bangpu Mai, Muang, Samutprakan 10280",13.5199400,100.6675960,10:00:00,22:00:00,DLC,False
+321,1422,203098,Pizza Com Prekkasa,"No.999, 999/1 Moo 5, Preakksa, Mueng, Samutprakarn 10280",13.5902600,100.6589730,10:00:00,22:00:00,DLC,False
+398,1444,270092,Pizza Com Lotus Srinakarin,"Tesco Lotus Srinakarin No.9 Moo 6 Srinakarin Rd., Bangmuengmai, Mueng, Samutprakan 10270",13.6201300,100.6206340,10:00:00,22:00:00,RBD,False
+276,1280,203028,Pizza Com Teparak,"No.1698/4-5 Moo 6 Tapharak, Mueng, Samutprakarn 10270",13.6219750,100.6380680,10:00:00,22:00:00,DLC,False
+96,2467,201118,Pizza Com Robinson Samutprakan,"Robinson Samutprakan Room 210–211 No.789 Moo 2, Tai Banmai, Muang, Samutprakan 10280",13.5831760,100.6085470,10:00:00,21:00:00,RBD,False
+231,2845,203227,Pizza Com PTT Klongkud,"PTT Klongkud Station No.915 Moo 2 Prakasa, Muaeng, SamutprakanCity 10270",13.5635220,100.6928410,,,DLC,False
+132,1442,270501,Pizza Com Big C Bangplee,"Big C Super Center Bangplee Room 2CR204, No.89 Moo 9, Taeparak KM.13 Rd., Bangplee Yai, Bangplee, Samutprakan 10540",13.6030510,100.7072010,10:00:00,22:00:00,RBD,False
+1202,3024,203228,Pizza Com ATT U Park Bangna-Trad KM.12,"ATT U Park Suvannaphoom Bangna-Trad KM.12 Rd., Bangplee, Bangplee, Samuthprakarn 10540",13.6324730,100.7159440,,,DLC,False
+585,1425,203100,Pizza Com PTT Bangna-Trad Km.34,"PTT Bangna Km.34 No.40/5 Moo 13 Bangna-Trad Rd., Bangkaeo, Bangplee, Samuthprakarn 10540",13.5731140,100.9104020,10:00:00,22:00:00,DLC,False
+172,2828,203226,Pizza Com Thai Watsadu Bangna,"No.54 Bangna-Trad Rd., Bangkaew, Bangplee, Bangkok 10540",13.6519800,100.6769950,,,DLC,False
+544,1602,270241,Pizza Com Mega Bangna,"Mega Bangna 2nd Floor, Room 2126, No.39 Moo 6, Bangna-Trad Rd., Bangkaeo, Bangplee, Samutprakarn 10540",13.6481400,100.6815780,10:00:00,22:00:00,FSR,False
+1163,1432,203104,Pizza Com Shell Bangna-Trad Km.18,"Shell Bangna Km.18 Station No.18/2 Moo 7 Bangna Km.18 Rd., Bangchalong, Bangplee,  Samutprakarn 10540",13.6136200,100.7547610,10:00:00,22:00:00,DLC,False
+532,1429,203107,Pizza Com PTT Kingkaew Soi 11,"PTT Kingkaew Soi 11 Service Station No.130/3-5 Moo 12 Kingkeaw Rd., Rachateva, Bangplee, Samutprakarn 10540",13.6582400,100.7169010,10:00:00,22:00:00,DLC,False
+399,1289,270093,Pizza Com Big C Suksawat,"Big C Super Center Suksawat No.94 Moo 18 Suksawat Rd., Bangnampueng, Prapadaeng, Samutprakarn 10130",13.6538300,100.5221520,10:00:00,21:00:00,FSR,False
+348,1768,203145,Pizza Com Prapadang 2,"No.122/13-14 Moo 16 Nakhon Khuean Khan Rd., Bangphueng, Prapadang, Samutprakarn 10130",13.6600250,100.5218720,10:00:00,22:00:00,DLC,False
+504,1409,203086,Pizza Com Poochaosamingpray,"No.221/5 Moo 8 Poochaosamingpai Rd., Samrongklang, Phapadang, Samutprakarn 10130",13.6444350,100.5872900,10:00:00,22:00:00,DLC,False
+99,1288,203034,Pizza Com Prasamutjaydee,"No.107/3-4 Suksawat Rd., Pakklongbangplakod, Prasamutjaydee, Samutprakarn 10290",13.5946290,100.5790510,10:00:00,22:00:00,DLC,False
+233,1410,203085,Pizza Com PTT Bangna-Trad Km.25,"PTT Bangna Km.23 Station No.94/650 Moo 2 BangSaothong, Bangsaothong, Minor District, Samutprakarn 10540",13.5911720,100.8265680,10:00:00,22:00:00,DLC,False
+535,2559,203213,Pizza Com Kaha Bangplee,"No.200/12-13 Moo 1, Bangsaotong, Bangsaotong, Sanmuthprakarn 10540",13.5847300,100.7957340,10:00:00,22:00:00,DLC,False
+2650,4169,272182,Pizza Com Big C Tiwanon,"No. 9/9 Big C Super Center Tiwanon Moo 5 Tiwanon Rd, Talat Kwan, Mueang Nonthaburi District, Nonthaburi 11000",13.8448770,100.5105490,,,FSR,False
+529,1306,203041,Pizza Com Nonthaburi,"No.59 Pracharad Rd., Taladkwang, Mueng, Nonthaburi 11000",13.8437310,100.5049810,10:00:00,00:30:00,DLC,False
+502,1393,203076,Pizza Com Ngamwongwan,"No.9/11 Moo 2 Ngamwongwan Rd., Bangkhen, Mueang, Nonthaburi 11000",13.8574990,100.5362280,10:00:00,22:00:00,DLC,False
+576,1302,201019,Pizza Com The Mall Ngamwongwan,"The Mall Ngamwongwan Room 1F-C1 No.30/39-30/50 Ngamwongwan Rd., Bangkhen, Mueng, Nonthaburi 11000",13.8554880,100.5421800,10:00:00,21:00:00,FSR,False
+126,1405,270231,Pizza Com Central Rattanathibet,"Central Rattanathibet 3rd Floor Room A1 No.68/100 Moo 8 Rattanathibet Rd., Bang kra-so, Muaeng, Nonthaburi  11000",13.8659090,100.4969820,10:00:00,21:00:00,FSR,False
+1148,1763,203138,Pizza Com Manor Sanambin-Nam,"Manor Avenue Room 559 No.102-103 Sanambin-Nam Rd. , Bangkrasor, Muang, Nonthaburi 11000",13.8812300,100.4865510,10:00:00,22:00:00,DLC,False
+1152,2600,203216,Pizza Com Samakke,"No.620/1 Samakke Rd., Tasai, Mueng, Nontaburi 11000",13.8802650,100.5448750,,,DLC,False
+531,1420,203094,Pizza Com Tha-IT,"No.99/134 Moo 2 Soi Thait, Rattanathibej Rd., Saima,  Mueng, Nonthaburi 11000",13.8843240,100.4590490,10:00:00,22:00:00,DLC,False
+103,2843,272532,Pizza Com Nakorn in,"No.35/3 Moo 4, Room 3-5, Bang Si Thong, Bang Kruai, Nonthaburi 11130",13.8238770,100.4791644,,,DLC,False
+397,1368,270091,Pizza Com Lotus Bangyai,"Tesco Lotus Bangyai No.90 Moo 5 Kanjanaphisek Rd., Bangkoowieng, Banggruey, Nonthaburi 11130",13.8235760,100.4096640,10:00:00,22:00:00,RBD,False
+1190,2954,272110,Pizza Com The Crystal Ratchapruek,"No. 64/99 Ratchapruek Road,Tambon Mahasawat,Bangkruay,Nonthaburi,Thailand 11130",13.8095504,100.4483441,,,FSR,False
+330,1758,203135,Pizza Com Chaophraya Plaza,"Chaopraya Plaza No.67-67/1 Moo 10, Bangkruay-Sainoi Rd., Banglan, Bangyai, Nonthaburi 11000",13.8454161,100.4399338,10:00:00,22:00:00,DLC,False
+1174,2266,201110,Pizza Com Central Westgate,"Central West Gate 3rd Floor Room 345 No.199, 199/1-2 Moo 6 Rattanathibet Rd., Saotonghin, Bangyai, Nonthaburi 11140",13.8767980,100.4112210,10:00:00,22:00:00,FSR,False
+458,2564,272506,Pizza Com Taladnam Bangkulad,"Taladnam Bangkulad No.59/16 Moo 4, Kanchanapisek Rd., Bangyai, Bangyai, Nonthaburi 11140",13.8409190,100.3641370,10:00:00,22:00:00,DLC,False
+2658,4176,203245,Pizza Com PTT Sribuathong,"No. 46/21 PTT Bangkuai-Sai Noi (Arrival) M.4 Bangkruai-Sai Noi Rd. , Sono Loy ,Bang Bua Thong, Nonthaburi 11110",13.9145237,100.4223787,,,DLC,False
+1155,1308,203043,Pizza Com PTT Sainoi,"PTT Sainoi Service Satation No.888 Moo 1, Bangkruay-Sainoi Rd., Bangbuathong, Bangbuathong, Nonthaburi 11110",13.9366300,100.3949620,10:00:00,22:00:00,DLC,False
+347,1767,203141,Pizza Com The One Park,"The One Park No.97/1 Moo 8 Watratpradu Rd., Bangruk Pattana, Bangbuathong, Nonthaburi 11110",13.9098050,100.3870480,10:00:00,22:00:00,DLC,False
+550,2416,203199,Pizza Com Big C Bangyai,"Big C Extra Super Center Bangyai 1st Floor Room GCR 114 No.9/9 Moo 11 Kanchanapisek Rd., Bangrakpattana, Bangbuathong, Nonthaburi 11110",13.8830420,100.4080590,10:00:00,22:00:00,DLC,False
+1127,1232,203017,Pizza Com Pakkret,"No.89/25-26 Soi Changwattana-Pakkret 10, Changwattana Rd., Pakkret, Pakkret, Nonthaburi 11120",13.9091750,100.5004920,10:00:00,00:30:00,DLC,False
+1403,3247,272123,Pizza Com Big C Chaengwattana 2,"Big C Super Center Changwattana 2 No.112 Moo 5, Chaengwattana Rd., Pak Kret, Pak Kret, Nonthaburi 11120",13.9059491,100.5146811,,,FSR,False
+379,2436,203206,Pizza Com The Portal Impact,"No.92 Popular Rd., Banmai, Pakred, Nonthaburi 11120",13.9121030,100.5480570,10:00:00,22:00:00,DLC,False
+279,2568,201128,Pizza Com Robinson Srisamarn,"Robinson Srisamarn No.99 Moo 1, Banmai, Pakkret, Nonthaburi 11120",13.9398700,100.5528070,10:00:00,22:00:00,RBD,False
+477,1319,203052,Pizza Com Sammakorn Ratchapruck,"Pure Place Ratchapruk 1st Floor Room A2-A5 No.62/26-32 Ratchapruk Rd., Oamkret, Pakkret, Nonthaburi 11120",13.9125110,100.4495020,10:00:00,22:00:00,DLC,False
+2494,4129,272176,Pizza Com Robinson Ratchaphruek,"No. 19/11 Moo 4 FL.G , Ratchapruek Road , Khlong Khoi Sub District Pak Kret District Nonthaburi 11120",13.9357000,100.4574300,,,FSR,False
+480,1438,203123,Pizza Com Muangthongthanee,"No.58/100, 58/102 Moo 3 Changwattana Rd., Klongklua, Prakkret, Nonthaburi 11120",13.9053440,100.5378930,10:00:00,00:30:00,DLC,False
+2212,3833,272153,Pizza Com Lotus Pathumthani,"Tesco Lotus Pathumthani No.21/49 Phathum-Samkhok Rd., Bangprok, Muang, Phathumthami 12000",14.0207420,100.5266050,,,FSR,False
+299,1391,203075,Pizza Com PTT Petra,"PTT Petra Service Station No.140 Moo 2, Tiwanon Rd., Ban-Klang, Muang, Pathumthani 12130",14.0067280,100.5532670,10:00:00,22:00:00,DLC,False
+207,1760,203142,Pizza Com Nuanchawee,"No.127/2 Moo 7, Krungthep-Pathumthani Rd., Bangkuwat, Pathumthani, 12000",13.9633560,100.5132420,10:00:00,22:00:00,DLC,False
+111,1381,203068,Pizza Com Nawanakorn,"No.110/7-10 Moo 13 Phahonyothin Rd., Klongnueng Klongluang Phathumthani 12120",14.1182910,100.6181210,10:00:00,22:00:00,DLC,False
+522,2207,203178,Pizza Com BU Rangsit,"No.19/2 Moo 3, Khlong Song, Khlong Luang, Pathum Thanii 12120",14.0271050,100.6153790,10:00:00,22:00:00,DLC,False
+1153,1418,203096,Pizza Com Klongluang,"No.7/39-40 Moo 7 Klongluang Rd., Klongsong Klongluang Pathumthani 12120",14.0657961,100.6447045,10:00:00,00:30:00,DLC,False
+326,1439,203128,Pizza Com Thanya Klong 3,"No.42/4 Moo 3, Leab Klong 3 Rd., Klongsam, Klongluang, Pathumthani 12120",14.0301380,100.6635230,10:00:00,22:00:00,DLC,False
+271,1274,203024,Pizza Com Rangsit Market,"Rangsit Market No.8 Soi Rangsit-Pathumthani 5, Rangsit-Pathumthani Rd., Prachatipat, Thanyaburi,  Pathumthani 12130",13.9870880,100.6131270,10:00:00,00:30:00,DLC,False
+579,1590,201030,Pizza Com Future Park Rangsit,"Future Park Rangsit B Fl. No.161 Moo 2 Phaholyothin Rd., Prachathipat, Thayaburi, Pathumthani 12110",13.9890650,100.6179280,10:00:00,21:00:00,FSR,False
+327,1440,203110,Pizza Com Muang-Ake,"No.40-42 Soi Phaholyothin 87, Phahonyothin Rd., Prachathipat, Thanyaburi,  Pathumthani 12130",13.9683000,100.6160000,10:00:00,22:00:00,DLC,False
+492,1395,270401,Pizza Com Lotus Klong 3,"Tesco Lotus Rangsit Nakornnayok No.90 Moo 2 Rangsit-Nakornnayok Rd., Bueng Yitho, Thanyaburi, Pathum Thani 12110",14.0014870,100.6811400,10:00:00,21:00:00,RBD,False
+316,1427,203102,Pizza Com Rangsit Klong 10,"No.40/2 Moo 4 Buengsanan, Thanyaburi, Pathumthani 12110",14.0566360,100.8345680,10:00:00,22:00:00,DLC,False
+2087,3798,272559,Pizza Com Ladlumkaew,"No. 89/24-25 Moo 1 Kooklang, Ladlumkaew, Pratumtanee 12140",14.0511850,100.4404670,,,DLC,False
+188,2605,203215,Pizza Com Nana Place,"Nana Place No.21/11 Moo 6 Lamlookka 11, Koo Kot, Lamlookka. Prathumthani 12130",13.9673950,100.6432090,,,DLC,False
+1395,3238,272122,Pizza Com Zeer Rangsit,"Zeer Rangsit Floor B. 99  Phahonyothin Road,  Moo.8 ,Tambon Khukhot, Lamlukka,Pathum Thani,Thailand 12130",13.9615830,100.6228420,,,FSR,False
+296,1315,203048,Pizza Com Lumlukka Klong 3,"No. 169/3,4 Moo 3 Lumlukka Rd., Kukot, Lumlookka, Pathumthani 12130",13.9329108,100.6550142,10:00:00,00:30:00,DLC,False
+490,1414,270055,Pizza Com Big C Lumlukka,"Big C Super Center Lumlukka Klong 6, Room 101A, No.10 Moo 12, Lumlukka Rd., Bueng Kham Phroi, Lumlukka, Pathumthani 12150",13.9346270,100.7145350,10:00:00,22:00:00,RBD,False
+1177,3029,272540,Pizza Com Lumlukka Klong 8,"เลขที่ 88/64 Moo 5 lumlukka, Lumlukka, Pathumthani 12150",13.9448790,100.7761460,,,DLC,False
+1464,3330,272139,Pizza Com Amporn Ayutthaya,"No.10/1 Amporn Ayutthaya, Nareasuan Rd. Horrattanachai, Phranakornsir Ayutthaya Ayutthaya 13000",14.3595230,100.5784270,,,RBD,False
+2339,3965,272162,Pizza Com Central Ayutthaya,"No.129/1-3 Floor 2 Room 274  Moo 3  Khlong suanplu, Pranakhon Si Ayutthaya , Pranakhon Si Ayutthaya 13000",14.3315962,100.6122823,,,RBD,False
+1463,3329,272138,Pizza Com Ayutthaya Park,"Ayutthaya Park Room G20, No.126 Moo 3, Klongsuanplu, Phranakornsri Ayutthaya, Ayutthaya 13000",14.3358820,100.6099640,,,RBD,False
+2390,4010,272564,Pizza Com Tharuea Ayutthaya,"No. 48/5 ,48/6 Tharuea-Tharan Road (South) ,Tharuea ,Tharuea, Pranakhon Si Ayutthaya 13130",14.5666810,100.7200510,,,DLC,False
+1205,3042,272541,Pizza Com PTT Nakhonluang Ayutthaya,"PTT Nakhonluang Station No.203 Moo 4, Bangrakum, Nakhonluang, Ayuthaya 13260",14.4688890,100.5964630,,,DLC,False
+173,2609,272514,Pizza Com Bang Pa-In Ayutthaya,"No.333/16 Moo 11 Mooban Phoomsirir 2, Banlen, Bangpain, Ayudthaya 13160",14.2167040,100.5781210,,,DLC,False
+501,2661,272528,Pizza Com Wangnoi Ayutthaya,"PTT Wongnoi Ayutthaya Station No.12/3 Moo 3 Lumtasao, Wangnoi, Phranakornsri Ayutthaya 13170",14.2351680,100.7236660,,,DLC,False
+584,2969,272538,Pizza Com Sena Ayutthaya,"No.401/15 Taksin Sena Rd., Sena, Sena, Phranakhonsi Ayutthaya 13110",14.3257350,100.4042380,,,DLC,False
+1465,3331,272550,Pizza Com Ayutthaya Uthai,"No.25/12-13 Moo 6 Kanham, Uthai, Phranakornsri Ayuthaya 13210",14.3319530,100.6544160,,,DLC,False
+2300,3949,272160,Pizza Com Lotus Angthong,"Tesco Lotus Angthong No.73, Bypass 1 Rd.,Pho Sa, Muang Angthong, Angthong 14000",14.5807260,100.4603020,,,RBD,False
+2430,4052,272166,Pizza Com Robinson Lopburi,"Robinson Lopburi Room 105, No.555/5, Moo 4, Kok-Ko, Mueng, Lopburi 15000",14.7749465,100.6926987,,,RBD,False
+2429,4051,272165,Pizza Com Big C Lopburi,"Big C Super Center Lopburi, Room 210-213, No.2, Moo 1, Thasala, Muang, Lopburi 15000",14.7943320,100.6718910,,,RBD,False
+319,2653,272522,Pizza Com Lotus Khoksamrong Lopburi,"Tesco Lotus Khoksamrong No.122/1, Khoksamrong, Khoksamrong, Lopburi 15120",15.0590838,100.7181703,,,DLC,False
+2431,4053,272167,Pizza Com Chaisaeng Singburi,"No.910 Khun Chan Rd., Bangpudsa, Muang, Singburi 16000",14.8965570,100.3994430,,,RBD,False
+439,2118,270631,Pizza Com Lotus Chainat,"Tesco Lotus Chainat, No.364/25, Chainat-Suphanburi Rd., Ni-Muaeng, Muaeng, Chainat 17000",15.1828110,100.1330120,10:00:00,21:00:00,RBD,False
+400,1314,270094,Pizza Com Lotus Saraburi,"Tesco Lotus Saraburi No.91/3 Mittaparp Rd., Pakpure, Mueng, Saraburi 18000",14.5215920,100.9226410,10:00:00,21:00:00,FSR,False
+80,2596,272511,Pizza Com Saraburi Hospital,"No.20/1, 20/2 Tessaban 4 Rd., Pak Preaw, Mueng, Saraburi 18000",14.5353070,100.9161120,10:00:00,21:00:00,DLC,False
+404,2114,270095,Pizza Com Robinson Saraburi,"Robinson Saraburi No.99, Moo 7, Mitrapab Rd., Talingchan, Muang, Saraburi 18000",14.5417250,100.9510060,10:00:00,21:00:00,RBD,False
+174,2635,272520,Pizza Com Nongkhae Saraburi,"No.89/2, 3 Setsamphan Rd., Nong Khae, Nong Khae, Saraburi. 18140",14.3422500,100.8671400,,,DLC,False
+1185,2434,203204,Pizza Com Bangplasoi,678/12 Sukhumvit Road Tumbon Bangplasoi Amphur Muang Chonburi 20000,13.3680110,100.9919380,10:00:00,22:00:00,DLC,False
+575,1298,201024,Pizza Com Robinson Chonburi,"888 Robinson Chonburi Floor 1 Moo 3, Sookprayoon, Donhualor, Chonburi, Chonburi, 20000",13.4057727,101.0408370,10:00:00,21:00:00,RBD,False
+206,1365,201072,Pizza Com Bangsaen,"No.278/2 Longhadbangsaen Rd., Sansuk, Mueng, Chonburi 20000",13.2868350,100.9259680,10:00:00,21:00:00,RBD,False
+479,1572,203092,Pizza Com Amata,"96/19 Moo 6 Donhuaro,Mueng Chonburi 20000",13.4297380,101.0378540,10:00:00,22:00:00,DLC,False
+438,2557,270612,Pizza Com Lotus Plus Mall Amatanakorn,No.700/75 Moo.5 Klongtumru Muang Chonburi 20000,13.4262720,101.0043760,10:00:00,21:00:00,RBD,False
+112,1573,203130,Pizza Com Phraya Satja,"No.112/3-4 Moo 1, Soi Nartmonsewe 11, Phrayasatja Rd., Mueng, Chonburi 20000",13.3423570,100.9618590,10:00:00,22:00:00,DLC,False
+534,1596,201081,Pizza Com Central Chonburi,"Central Chonburi Room 338-40 3rd Floor, No.55/88-89 Moo 1 Samet, Muang, Chonburi 20000",13.3367910,100.9689920,10:00:00,21:00:00,FSR,False
+138,2371,270771,Pizza Com Lotus Banbueng,"No.64 Banbueng-Bankai Rd., Banbueng Sub-District, Banbueng District, Chinburi 20170",13.3051540,101.1215190,10:00:00,21:00:00,RBD,False
+105,1761,203134,Pizza Com Jomtien,"No.324/32 Moo 12 Chaiyapueknongbue Rd., Nongbue, Banglamung, Chonburi 20150",12.8817300,100.8817770,10:00:00,00:30:00,DLC,False
+26,1578,203119,Pizza Com Nuenplabwhan,"No.13/237 Moo 5 Nongbue, Bangramung, Chonburi 20150",12.9312460,100.9085560,10:00:00,00:30:00,DLC,False
+533,1595,201080,Pizza Com Central Pattaya,"Central Festival Pattaya Beach 6th Floor, Room 640-643R, No.333/99, Moo 9, Nongprue, Banglamung, Chonburi 20260",12.9351440,100.8831440,10:00:00,21:00:00,FSR,False
+393,2535,203211,Pizza Com Pattaya Tai,"No.111/38-39 Moo 10 Soi Pattaya Tai 20, Pattaya Tai Rd., Nongprue, Banglamung, Chonburi 20150",12.9239070,100.8810080,10:00:00,00:30:00,DLC,False
+565,1279,201001,Pizza Com Pattaya,"No.183/2-4 Moo 10 Liapchaihat Pattaya Rd., Nongbue, Banglamung, Chonburi 20260",12.9302980,100.8781670,10:00:00,22:00:00,FSR,False
+582,2657,201135,Pizza Com Terminal 21 Pattaya,"Terminal 21 Pattaya, 3rd Floor, Room SH3016-17, No.777 Moo 6, Na Klua, Banglamung, Chonburi 20150",12.9502800,100.8886760,,,FSR,False
+3,1577,203120,Pizza Com Nakrue,"No.307 Moo 5 Nakrue, Banglamung, Chonburi 20150",12.9598110,100.8938490,10:00:00,00:30:00,DLC,False
+1150,2599,201133,Pizza Com Lotus Panusnikom,"1st Fl. Tesco Lotus Panusnikom, 140 Moo 1 Sukprayoon Rd., Kudngong, Panusnikom, Chonburi 20000",13.4465030,101.1696170,10:00:00,09:00:00,RBD,False
+1445,3308,203237,Pizza Com Sriracha,"Pacific Park Sriracha Floor 1 ,90 Sukhumvit Rd, Si Racha, Si Racha District, Chon Buri 20110",13.1683190,100.9312120,,,DLC,False
+309,1407,203083,Pizza Com Assumption Sriracha,"No.3/130 Moo 2, Surasak, Sriracha, Chonburi 20110",13.1660700,100.9327440,10:00:00,22:00:00,DLC,False
+244,1390,201079,Pizza Com Leamchabang,"No.4/222 Sukhumvit Rd., tungsukla sriracha Chonburi 20230",13.0790840,100.9204180,10:00:00,22:00:00,RBD,False
+2417,4041,272568,Pizza Com Bueng Worakit Chonburi,"No.5/17-5/18 Moo 8, Bueng, Siracha, Chonburi 20230",13.0736510,101.0111120,,,DLC,False
+115,2070,203157,Pizza Com Leamchabang,"662/15 Moo 5 Sukhapiban 5 Rd., Nongkhram Sriracha Chonburi 20110",13.1008980,100.9641800,10:00:00,22:00:00,DLC,False
+2416,4040,272567,Pizza Com Surasak Sriracha,"No. 11/1 Moo 10, Nongkham, Sriracha, Chonburi 20230",13.1246860,100.9983520,,,DLC,False
+2392,4015,272565,Pizza Com PTT Hemaraj Chonburi,554/39 Moo 7 Tambon Khao khansong Sriracha Chonburi 20110,13.0768510,101.1770710,,,DLC,False
+1476,3356,272141,Pizza Com Lotus Borwin,"Tesco Lotus Borwin No.117/46 Moo 3, Borwin, Siracha, Chonburi 20230",13.0349920,101.0897920,,,RBD,False
+280,2576,201129,Pizza Com Big C Sattaheep,"No.88/18 Fl.1 Moo.3 Sattaheep,sattaheep,Chonburi 20180",12.7013630,100.8900650,10:00:00,22:00:00,RBD,False
+226,1355,201065,Pizza Com Lotus Rayong,No.3 Sukhumvit Tar Pra Doo Mueng Rayong 21000,12.6839310,101.2697210,10:00:00,22:00:00,RBD,False
+263,2234,201109,Pizza Com Central Rayong,Central Rayong 99/1 Bangna-Trad Rd. Chungnuen Mueng Rayong 21000,12.6954679,101.2675068,10:00:00,21:00:00,RBD,False
+1416,3262,272523,Pizza Com Ban Phe Rayong,"No.280/41 Moo 2 Ban Phe, Mueang, Rayong  21160",12.6279760,101.4387310,,,DLC,False
+1142,1576,203132,Pizza Com PTT Auto One Rayong,"No.9999/6 Sukhumvit Rd., Nernpra, Muang, Rayong, 21150",12.7019710,101.1889510,10:00:00,22:00:00,DLC,False
+114,2676,201138,Pizza Com Lotus Mabtaput,"No.158/18 Sukhumvit Rd., Mabtapud, Mueng Rayong, Rayong, 21150",12.7162570,101.1655410,,,RBD,False
+2387,4007,201141,Pizza Com Robinson Banchang,"Robinson Banchang No.162 Moo 6, Ban Chang, Ban Chang, Rayong 21130",12.7404900,101.0804600,,,RBD,False
+365,2208,203177,Pizza Com Ban-Chang,No. 46/15-17 Moo.5 Sukhumvit Road Tumbon Ban-Chang Amphur Ban-Chang Rayong Province 21130,12.7245000,101.0547000,10:00:00,22:00:00,DLC,False
+133,2098,270611,Pizza Com Lotus Klaeng Rayong,"No.78/2 Lotus Klaeng Rayong Sukhumvit Rd., Tangkwaen, Klaeng, Rayong 201110",12.7864300,101.6589500,10:00:00,21:00:00,RBD,False
+1477,3357,272142,Pizza Com CK Plaza Rayong,"No.888 CK Plaza Rayong 1st Fl.  Moo 1, Pluak Dang, Pluak Dang, Rayong 21140",12.9829320,101.2117920,,,RBD,False
+1479,3358,272552,Pizza Com Saphansee Mabyangporn Rayong,"No.60/90 Moo 3, Mapyangporn, Phruekdeang, Rayong 21140",13.0060823,101.1289197,,,DLC,False
+1731,3496,272555,Pizza Com Nikhomphatthana Rayong,"No.240 PTT Satation Moo. 1 Tumbon Nikomphattana, Amphur Nikomphattana, Rayong 21180",12.8332389,101.2053972,,,DLC,False
+441,2144,270671,Pizza Com Lotus Chanthaburi,"Lotus Chanthaburi No.25/4 Praya Trang Rd., Wongmai, Muang, Chanthaburi 22000",12.6160540,102.1016410,10:00:00,21:00:00,RBD,False
+2428,4050,272164,Pizza Com Central Chantaburi,"Central Chanthaburi No.199 Moo 7, Chanthanimit, Muaeng, Chanthaburi 22000",12.5995000,102.1239300,,,RBD,False
+1210,3046,272117,Pizza Com JJ Market Chanthaburi,"No.21/71-73 Moo.7 Chanthanimit Sub-District, Muang District, Chanthaburi Province 22000",12.6008910,102.1153110,,,RBD,False
+1418,3264,272542,Pizza Com PTT Khlung Chanthaburi,No.5 Sukhumvit Road Tambon Khlung Amphur Khlung Chanthaburi 22110,12.4614450,102.2279920,,,DLC,False
+92,2680,272103,Pizza Com Trad,"No.76-78 Sukhumvit Rd., Bangphra, Trad, 23000",12.2458500,102.5109430,,,RBD,False
+551,2581,270692,Pizza Com Big C Chachoengsao 2,"28/73 Big C Super Center Chachoengsao 2, Sothorntudmai Rd., Na Mueang, Chachoengsao 24000",13.6818200,101.0659990,10:00:00,21:00:00,RBD,False
+134,2165,270691,Pizza Com Robinson Chachuengsao,"No.910 Chachuengsao-Bangpakong Rd., Namuang, Muang, Chachuengsao 24000",13.6640420,101.0484080,10:00:00,21:00:00,RBD,False
+175,2646,272525,Pizza Com Phanomsarakham Chachoengsao,"No.941 Moo.1 Phanomsarakham, Phanomsarakham, Chachoerngsao 24120",13.7481890,101.3471620,,,DLC,False
+193,2630,270813,Pizza Com Robinson Prachinburi,"Robinson Prachinburi No.72 Moo 3, Bang Bo Ribun, Prachinburi, Prachinburi 25000",14.0594410,101.3958750,,,RBD,False
+1475,3353,272551,Pizza Com Lotus Kabinburi,"Tesco Lotus Kabinburi No.899 Moo.8 Mueangkao, Kabinburi, Prachinburi 25240",13.9855310,101.7714240,,,DLC,False
+471,2560,272507,Pizza Com 304 Plaza Srimahapho,"304 Plaza Srimahapho No.291-292 Thatoom, Srimahapho, Prachenburi 25140",13.9169161,101.5745869,10:00:00,21:00:00,DLC,False
+210,2632,270861,Pizza Com Lotus Nakornnayok,"Tesco Lotus Nakornnayok No.1-150 Banyai Rd., Nakornnayok, Muang, Nakornnayok 26000",14.2075960,101.2177650,,,RBD,False
+268,2946,272537,Pizza Com Banna Nakhonnayok,"No.79/8 Moo 5 Tombon Banna, Aumphur Banna, Nakhonayok 26110",14.2607200,101.0702740,,,DLC,False
+149,2865,272536,Pizza Com PTT Ongkharak,"PTT Ongkharak Station No.392 Moo 2 Ongkharak, Ongkharak, Nakhornnayok 26120",14.1234010,100.9946400,,,DLC,False
+1870,3585,272148,Pizza Com Big C Sakaeo,"Big C Super Center Sakaeo 1st Floor, No.352, Sakaeo, Mueang Sakaeo, Sakaeo 27000",13.8108700,102.0758700,,,RBD,False
+1417,3263,272546,Pizza Com Lotus Wang Nam Yen,"Tesco Lotus Wang Nam Yen No.234 Chanthaburi-Sakaeo Road, Wangnamyen, Sakaeo 27210",13.5074440,102.1785830,,,DLC,False
+156,2672,270931,Pizza Com Aranyaprathet Sakaeo,"No.51/2-3 Ratchu-tis Road, Tambon Aranyaprathet, Auphure Aranyaprathet, Srakeow 27120",13.6882770,102.5018580,,,RBD,False
+358,1354,201060,Pizza Com The Mall Korat,"The Mall Korat No.1242/2 Mittrapab Rd., Naimueng, Mueng, Nakornratchasrima 30000",14.9797710,102.0764900,10:00:00,22:00:00,RBD,False
+180,2478,201120,Pizza Com Big C Korat 2,"Big C Super Center Korat 2 Room 101, No.103 Paktongchai Rd., Ni-Muang, Muang Nakornrachasima 30000",14.9493090,102.0552730,10:00:00,22:00:00,RBD,False
+562,2528,201122,Pizza Com Central Nakorn Ratchasrima,"Central Nakhon Ratchasima 4th Floor, Room 465-467 Mitraphab-Nongkhai Rd., Naimuang, Muang, Nakhon Ratchasima 30000",14.9963520,102.1164390,10:00:00,22:00:00,FSR,False
+218,1334,201052,Pizza Com Jomsurang,"No.754, 756 Rajdamri Rd., Naimueng, Mueng, Nakornratchasrima 30000",14.9725130,102.0980360,10:00:00,22:00:00,RBD,False
+242,1903,201090,Pizza Com Lotus Korat 2 (Hua Talay),"Tesco Lotus Korat 2 No.442/189 Moo 1 Rachasrimachockchai Rd., Huatalay, Muang, Rachasrima 30000",14.9489320,102.1274540,10:00:00,22:00:00,RBD,False
+378,2473,203201,Pizza Com Jorhor Korat,"No.939/14 Moo 1 Bankoh, Muang, Nakornratchasrima 30000",15.0211060,102.1377850,10:00:00,22:00:00,DLC,False
+2458,4076,272174,Pizza Com PTT Khokkruat Korat,"No.42 Moo 6, Mittraphap Rd., Khok Kruat, Mueang, Nakhonratchasima 30280",14.9265300,101.9635450,,,RBD,False
+2448,4063,272171,Pizza Com PTT Dan Khun Thod,"PTT Dan Khun Thod Station, No.459/10 Moo 2 Dankhuntod, Dankhuntod, Nakhon Ratchasima 30210",15.1983890,101.7637500,,,RBD,False
+2449,4064,272566,Pizza Com PTT Buayai,"PTT gas station Bua Yai, No. 5, Highway 202, Bua Yai Subdistrict, Bua Yai District, Nakhon Ratchasima 30120",15.5946510,102.4206210,,,DLC,False
+2457,4075,272175,Pizza Com Lotus Pakthongchai Korat,"Tesco Lotus Pakthongchai Korat No.255 Moo 10, Muang Pak, Pakthongchai, Nakhonratchasima 30150",14.7211204,102.0156479,,,RBD,False
+2447,4062,272170,Pizza Com Lotus Phimai,"Tesco Lotus Phimai No.85 Moo 14 Ananchinda Rd., Naimuang, Phimai, Nakornratchasima 30110",15.2149562,102.4867880,,,RBD,False
+2459,4077,272570,Pizza Com Sikhio,"No.203 204Chumka,Rd.,SiKhio,SiKhio,Nakornratchasima30140",14.8910880,101.7241000,,,DLC,False
+444,2186,270711,Pizza Com Lotus Pakchong,"Tesco Lotus Pakchong Room B116, No.289, Moo 18, Pakchong, Pakchong, Nakornsrima 30130",14.6614380,101.3928390,10:00:00,22:00:00,RBD,False
+2285,3942,272561,Pizza Com Jira Soi 10 Burirum,"No.389/17-19 Jira Rd., Nai Muang, Muang, Burirum 31000",14.9935950,103.1050500,,,DLC,False
+2286,3941,272156,Pizza Com Robinson Buriram,"Robinson Buriram 1st Floor, Room 109, No.125 Moo 6, Krasang, Mueang, Buriram 31000",14.9733650,103.0641620,,,RBD,False
+1435,3291,272137,Pizza Com Lotus Nangrong,"Tesco Lotus Nangrong No.904/7 Chockchai Dach Udom Rd., Nangrong, Namgrong, Burirum 31110",14.6369470,102.7763230,,,RBD,False
+2528,4161,272180,Pizza Com Surin,"No.101/4 Nongdum Rd., NaiMueng, Mueng, Surin 32000",14.8900800,103.4907740,,,RBD,False
+2527,4162,272181,Pizza Com Robinson Surin,"No. 338 Robinson Suri, No.338 Moo 16 Salakdai, Mueang Surin, Surin 32000",14.8761390,103.5319120,,,RBD,False
+2315,3953,272562,Pizza Com Prasat Surin,"No. 284-285 Surin - Chongjom Road, Kangann district , Prasat District , Surin 32140",14.6332600,103.4078900,,,DLC,False
+89,2644,270901,Pizza Com Lotus Srisaket,"Tesco Lotus Srisaket, No.95 Moo 6, Pho, Mueng Srisaket, Srisaket, 33000",15.1061220,104.3688730,,,RBD,False
+2504,4137,272572,Pizza Com Lotus Kantharalak,"No. 229 Moo 3, Nongyalad Subdistrict, Kantharalak  District, Srisaket  33110",14.6481400,104.6351450,,,DLC,False
+2158,3817,203241,Pizza Com Ubon Ratchawet,"No.779/10-11 Chayangkun Road, Nai Mueang, Mueang, Ubon Ratchathani 34000",15.2680800,104.8433260,,,DLC,False
+564,2072,201100,Pizza Com Central Ubon,"Central Ubonratchathani 3rd Floor, Room 314 Leangmuang Rd., Ni Muang, Muang, Ubonratchathani 34000",15.2393000,104.8233000,10:00:00,21:00:00,FSR,False
+220,1341,201054,Pizza Com Sappasit Ubon,"No.92-94 Sappasit Rd., Naimueng, Mueng, Ubonratchathani 34000",15.2358930,104.8690580,10:00:00,22:00:00,RBD,False
+208,2885,272111,Pizza Com Lotus Detudom,"Tesco Lotus Detudom No.429 Moo 19, Sathonmark Rd., Muangdet, Detudom, Ubon Ratchathani, 34160",14.9103150,105.0668030,,,RBD,False
+526,2573,272510,Pizza Com Hayaek Warinchamrab Ubon,"No.26 Warin-Pibul Rd., Warinchamrab, Warinchamrab, Ubol Ratchtani 34190",15.1965180,104.8645540,10:00:00,22:00:00,DLC,False
+1625,3395,272144,Pizza Com Lotus Phiboonmangsahan,"Tesco Lotus Phiboonmangsahan, Room 125 No.29, Satitnimankarn Rd., Piboon, Phiboonmangsahan, Ubonratchathani 34110",15.2386400,105.2387800,,,DLC,False
+1480,3362,272140,Pizza Com Lotus Yasothon,"Tesco Lotus Yasothon No.437 Moo 10, Arunpraset Rd., Sumran, Muaeng, Yasothon 35000",15.8131430,104.1333430,,,RBD,False
+481,2669,270474,Pizza Com Robinson Chaiyaphum,"Robinson Chaiyaphum No.299/9 Moo 6, Nai-Muang, Muang, Chaiyaphum 36000",15.7864110,102.0308370,,,RBD,False
+81,2647,270881,Pizza Com Amnatcharoen,"No.288/17-18 Moo 9 Boong, Mueng Amnad Charoen, Amnad Charoen 37000",15.8653653,104.6272324,,,RBD,False
+88,2645,270891,Pizza Com Buengkan,"No.295/6-7 Bueng Kan-Pangkhon Rd., Wisit, Muang, Bueng Kan 38000",18.3652740,103.6502250,,,RBD,False
+556,2628,270871,Pizza Com Nongbualamphu,"No.363 Moo 3, Wiriyothin Rd., Nongbua, Muaeng, Nongbualamphu, 39000",17.2020038,102.4410651,,,RBD,False
+455,2549,272501,Pizza Com Khonkaen Hospital,"No.182/132-133 Srijan Rd., Nai Muang, Muang, Khonkaen 40000",16.4285447,102.8509471,10:00:00,22:00:00,DLC,False
+456,2550,272502,Pizza Com Jompol Market Khonkaen,"No.555/10-11 Kasikorn Thungsang Rd., Nai Muang, Muang, Khonkaen 40000",16.4487300,102.8414990,10:00:00,22:00:00,DLC,False
+370,1563,270222,Pizza Com Big C Khonkaen,"Big C Super Center Khonkaen No.69/6 Moo 17, Klang Muang Rd., Nai Muang, Muang, Khonkaen 40000",16.4254420,102.8196030,10:00:00,22:00:00,RBD,False
+591,1597,201082,Pizza Com Central Khonkaen,"Central Khonkaen 4th Floor, Room 431/1, 432, 433, No.99, 99/1 Mittraphap Rd., NaiMuang, Muang, Khonkhen 40000",16.4326510,102.8260710,10:00:00,21:00:00,FSR,False
+90,2639,272519,Pizza Com Kangsadan Khonkaen University,"No.140/142 Moo 14 Kangsadan Rd., Nai Muang, Muang Khonkaen, Khonkaen 40000",16.4647100,102.8257700,,,DLC,False
+482,2578,272508,Pizza Com Lotus Khonkaen1 KICE,"C.P. City Center Lotus 1 Khon Kaen, No.272/18-19, Mittaphap Rd., Mueng Kao, Mueng Khonkaen, Khon Kaen 40000",16.4000976,102.8163688,10:00:00,22:00:00,RBD,False
+123,1902,270224,Pizza Com Lotus Extra Khonkaen2 Nonmuang,"Tesco Lotus Extra Khonkaen 2 Nonmuang No.703 Moo 3 Sila, Mueang, Konkean 40000",16.4921780,102.8316410,10:00:00,22:00:00,RBD,False
+302,2417,270226,Pizza Com Lotus Chumpae,"Tesco Lotus Chumpae No.888 Moo 4 Chumpae, Chumpae, Khonkean 40130",16.5254530,102.1111290,10:00:00,21:00:00,RBD,False
+2450,4066,272569,Pizza Com Big C Banphai,BIgC Super Center BangPhai Room 111 No.100 Moo 6 .Hua Nong Mueang Ban Phai 40110,16.0484900,102.7132600,,,DLC,False
+508,2660,270228,Pizza Com Lotus Phon Khonkaen,"Tesco Lotus Phon No.11 Mittaparp Rd., Mueng Phon, Phon, Khonkaen 40120",15.8025665,102.6061084,,,RBD,False
+167,2604,201130,Pizza Com Thung Si Muang Udon,"No.70, 72 Phosri Rd., Mhakkeng, Meung, Udon Thani 41000",17.4088550,102.7854180,,,RBD,False
+241,1313,201041,Pizza Com Central Udon,"Central Udonthani 4th Floor, Room 401, No.277/1-3, 271/5 Prachaksinlapakhom Rd., Makkhaeng, Mueng, Udonthani 41000",17.4052700,102.8002620,10:00:00,21:00:00,FSR,False
+385,2475,203207,Pizza Com Muangthong Udon,"No.455/15-16 Moo 3 Nittayo Rd., Makkhaeng, Muang, Udonthani 41000",17.3897190,102.8205590,10:00:00,22:00:00,DLC,False
+252,1569,201084,Pizza Com UD Town,"UD Town No.88 Thongyai Rd., Makkhaeng, Mueng, Udonthani 41000",17.4005500,102.8046900,10:00:00,22:00:00,RBD,False
+540,2249,203186,Pizza Com PTT Udon Rangsina,"PTT Udon Rangsina Station No.255 Moo 8, Mittaparp Rd., Mumon, Mueang, Udontani 41000",17.4458740,102.7920830,10:00:00,22:00:00,RBD,False
+1419,3267,272125,Pizza Com Kumphawapi,"No.458/2-458/3 Chaelae Rd., Kumpawapi, Kumphawapi, Udon Thani 41110",17.1099060,103.0140430,,,RBD,False
+2445,4060,272168,Pizza Com Big C Loei,"Big C Super Center Loei No.114 Moo 9, Na-An, Mueng, Loei 42000",17.4691680,101.7263800,,,RBD,False
+2484,4112,272571,Pizza Com PTT Wangsapung,No. 566/3 Moo 11 Srisonkram Wangsaphung Loei 42130,17.3021000,101.7836800,,,DLC,False
+305,2972,272539,Pizza Com Prajak Road Nongkhai,"No.114/2 Prachak Rd., Nai Mueang, Muang Nong Khai, Nong Khai 43000",17.8831960,102.7495320,,,DLC,False
+131,1371,270471,Pizza Com Assawan Nongkai,"No.304 Moo 10, Mittraphap Rd., Phochai, Nongkhai, Nongkhai 43000",17.8711930,102.7425480,10:00:00,21:00:00,RBD,False
+1433,3287,272135,Pizza Com Thabo Nongkhai,"No.309-309/1 Moo 13, Tha Bo, Tha Bo, Nong Khai 43110",17.8531450,102.5728320,,,RBD,False
+192,2036,270581,Pizza Com Mahasarakham 2(Sermthai Complex),"Sermthai Complex 1st Floor, No.76/1 Nakornsawan Rd., Talad, Mueng Mahasarakham 44000",16.1802080,103.3021030,10:00:00,21:00:00,FSR,False
+403,1383,270151,Pizza Com Mahasarakam(Sermthai Plaza),"Sermthai Plaza No.103 Rimklong Somthawin Rd., Thalad, Muang,  Mahasarakram 44000",16.1804600,103.3022640,10:00:00,21:00:00,RBD,False
+475,2594,272512,Pizza Com Mahasarakham University,"796 Moo 1 Takonyang, Kantarawichai, Mahasarakarm 44150",16.2367800,103.2617620,10:00:00,07:00:00,DLC,False
+409,2046,270225,Pizza Com Big C Roi Et,"Big C Super Center Roi Et No.320 Moo 10, Nueamueang, Mueang, Roi Et 45000",16.0756180,103.6487870,10:00:00,21:00:00,RBD,False
+543,1403,270221,Pizza Com Robinson Roi Et,"Robinson Roi Et Room 105-106 No.137 Moo 3, Donglan, Muang, Roiet 45000",16.0550530,103.6382370,10:00:00,22:00:00,RBD,False
+232,2910,272114,Pizza Com Lotus Kalasin,"Tesco Lotus Kalasin No.99/11 Bypass Song Pueay Rd., Kalasin, Mueang, Kalasin 46000",16.4220970,103.5059670,,,RBD,False
+414,1568,270281,Pizza Com Robinson Sakonnakhon,"Robinson Sakonnakhon 1st Floor, No.1594/1 Nittayo Rd., Trad Choeng Chum, Mueng Sakonnakorn 47000",17.1784250,104.1192110,10:00:00,20:30:00,RBD,False
+499,2651,272524,Pizza Com Sakonnakhon,"No.1735/1 Rob Mueang Rd., That Choeng Chum, Mueang, Sakonnakhon, 47000",17.1604971,104.1499780,,,DLC,False
+1426,3274,272131,Pizza Com Big C Phangkhon,"Big C Super Center Phangkhon Room 106-107, No.506 Moo 6, Nittayo Rd., Phang-Khon, Phong-Khon, Sakon Nakhon 47160",17.3928704,103.7019555,,,RBD,False
+2662,4179,272187,Sawang Daendin,"No.49 Moo 11ai Charoenchai Road., Sawang Daen Din, Sawang Daen Din, Sakon Nakhon 47110",17.4745802,103.4567570,,,RBD,False
+200,2841,272105,Pizza Com Sawang Daendin,"No.49 Moo 11 Charoen Chai Rd., Sawang Daen Din, Sawang Daen Din, Sakon Nakhon 47110",17.4745802,103.4567570,,,RBD,False
+440,2131,270651,Pizza Com Lotus Nakornpanom,"Tesco Lotus Nakornpanom No.335/2 Nitayo Rd., Nongyat, Mueang, Nakornpanom 48000",17.3950360,104.7796760,10:00:00,21:00:00,RBD,False
+1626,3396,272145,Pizza Com Robinson Mukdahan,"Robinson Mukdahan No.99/11 Chaiyangkakun Rd., Mukdahan, Mueang, Mukdahan 49000",16.5687140,104.7186410,,,DLC,False
+250,2787,203229,Pizza Com Thapae,"No.35/2-3 Mulmuang Road, Tambon Phrasibng, Amphure Muang, Chiangmai 50200",18.7867410,98.9930300,,,DLC,False
+289,1321,203054,Pizza Com Khuangsing,"No.47/48-49 Chotana Rd., Changphueak Mueng Chiangmai 50000",18.8161620,98.9822540,10:00:00,00:30:00,DLC,False
+288,1320,203053,Pizza Com Esso Sanambin,"No.218 Moo 1 Tambon Pardad, Amphur Muang, Chiangmai 50100",18.7631210,98.9745330,10:00:00,00:30:00,DLC,False
+568,2504,201121,Pizza Com Big C Don Chan Chiangmai,"Room GJA 001 No.208 Big C Super Center Don Chan Chiangmai Moo 3 Tumbon Thasala, Amphur Muang, Chiangmai 50000",18.7672482,99.0329096,10:00:00,21:00:00,RBD,False
+549,2111,201102,Pizza Com Central Festival Chiangmai,"No.99,99/1,99/2 Moo 4 Central Festival Chiangmai Fl.5 Faham Muaeng Chiangmai 50000",18.8073440,99.0178670,10:00:00,21:00:00,FSR,False
+392,2517,203209,Pizza Com Ruamchok,"204 RUAMCHOK Mall 1st floor Moo 6 FahHam, Amphur Mueng  Chiangmai 50000",18.8251825,99.0117224,10:00:00,00:30:00,DLC,False
+486,1349,201062,Pizza Com Lotus Kamthieng,No.19 TaladKamtieng Rd. Patan Muang Chiangmai 50300,18.8078550,98.9968340,10:00:00,21:00:00,FSR,False
+1145,2538,203212,Pizza Com PTT Mae-Rim,"No.5/11 Moo 7 Maerim Tai , Maerim Chaingmai 50180",18.9221110,98.9399320,10:00:00,22:00:00,DLC,False
+1470,3340,272549,Pizza Com Lotus Fang Chiangmai,"Lotus Fang Chiangmai No.655 Moo 5 Tambon Weng, Amphoe Fang, Chiangmai 50110",19.9090920,99.2039280,,,DLC,False
+344,2126,203162,Pizza Com Borsang,"No.9/6-7 Moo.2 Tonpao, Samkampheng, Chiangmai 50130",18.7660600,99.0780250,10:00:00,22:00:00,DLC,False
+310,1413,203089,Pizza Com Mae-Jo,144/4 Moo 9 Nonghan Sansai Chiangmai 50290,18.8933200,99.0099960,10:00:00,22:00:00,DLC,False
+352,1915,203150,Pizza Com PTT Hangdong,"No.5/1  Moo 3, Hangdong, Hangdong Chiang Mai, Chiang Mai  50230",18.6938160,98.9264870,10:00:00,22:00:00,DLC,False
+1889,3604,272557,Pizza Com Lamphun,"No.151/1-151/2 Moo 4 BanKrang, Muang, Lumpoon 51000",18.5865120,99.0504790,,,DLC,False
+2521,4156,272178,Pizza Com Central Lampang,"No. 319 Central Lumpang 3rd Floor, Lumpang-Agao Rd., Suandok, Mueang, Lumpang 52110",18.2821780,99.4948850,,,FSR,False
+2522,4155,272177,Pizza Com Big C Lampang,"No. 65 Big C Lampang Room 101, 1st Floor, Highway Lampang-Ngao Rd. Soptui, Muang Lampang 52100",18.2761980,99.4804930,,,RBD,False
+1221,3060,272126,Pizza Com Friday Uttaradit,"No. 172 Boroma-at Rd., Thait, Mueang, Uttradit 53000",17.6149150,100.0924250,,,RBD,False
+95,2848,272108,Pizza Com Phare,"No.132 Yantrakijkosol Rd., Nai Wieng, Phare, 54000",18.1410680,100.1484150,,,RBD,False
+463,2390,270781,Pizza Com Big C Nan,"Big C Nan Room GCR, 1st Floor No.708, Chaisatan, Muang, Nan 55000",18.7782280,100.7579400,10:00:00,21:00:00,RBD,False
+282,2847,272109,Pizza Com Phayao,"No.19/2-3, Wieng, Mueng Phayao, Phayao, 56000",19.1709960,99.8984000,,,RBD,False
+219,1338,201053,Pizza Com Chiangrai,"No.869/168 Prahonyothin Rd., Wiang Mueng Chiangrai 57000",19.9051600,99.8330500,10:00:00,22:00:00,RBD,False
+518,1598,201087,Pizza Com Central Chiangrai,"Room 160 R 1st Flr. Central Chiangrai Pahonyothin Rd., Mueng Chiangrai 57000",19.8863120,99.8331290,10:00:00,21:00:00,FSR,False
+317,2675,201136,Pizza Com Big C Chiangrai 2,"No.2 Room 103 Phahonyothin Rd.,aBndu, Mueng Chiengrai, 57100",19.9599930,99.8557330,,,FSR,False
+2099,3808,272560,Pizza Com Maesai Chiangrai,"No.27 Moo 7 Maesai, Maesai, Chiangrai 57130",20.4409960,99.8821180,,,DLC,False
+243,1366,201073,Pizza Com Big C Nakornsawan,"No.320/11 Sawan Vidhi Rd., Pak Nam Pho, Muang, Nakhonsawan 60000",15.6951800,100.1214750,10:00:00,22:00:00,RBD,False
+1980,3697,203239,Pizza Com Lotus Nakornsawan,"No.124 Moo 10 Wat Sai,Muang Nakhornsawan,Nakhonsawan 60240",15.7078970,100.0947230,,,DLC,False
+2410,4034,272155,Pizza Com Uthaithani,"Terbsiri Road, Uthai Mai Subdistrict, Mueang District, Uthai Thani Province 61000",15.3865890,100.0237140,,,RBD,False
+2089,3800,272151,Pizza Com Big C Kamphaengphet,"Big C Supercenter Kamphaengphet No.613/1 Charoensuk Rd. Nai Muang, Muang Kamphaeng Phet 62000",16.4742120,99.5411880,,,RBD,False
+1396,3240,272129,Pizza Com Lotus Tak,"Lotus Tak No.18 Phaholyothin Rd., Nongluang, Mueng, Tak 63000",16.8637040,99.1371990,,,RBD,False
+2657,4175,272184,Pizza Com Lotus Maesod,"No. 17 Tesco Lotus Mae-Sod Room 038, 1st floor, Asia Rd., Mae-Sod, Mae-Sod, Tak 63110",16.7124700,98.5518800,,,RBD,False
+265,2849,272535,Pizza Com Sukhothai,"No.130, Jarodwithithong Rd., Thani, Mueng, Sukhothai, 64000",17.0086620,99.8168450,,,DLC,False
+1168,2124,201104,Pizza Com Big C Pitsanulok,"No.939 ฺBig C Pitsanuloke Room 105, Pichaisongkram Rd., Naimuang, Pisanuloke 65000",16.8159710,100.2881520,10:00:00,22:00:00,RBD,False
+1167,1893,201089,Pizza Com Central Pitsanulok,"Central Pisanulok, Singhawat Rd., Banklong Mueng, Pisanuloak 65000",16.8404520,100.2330940,10:00:00,21:00:00,FSR,False
+1171,2037,201099,Pizza Com Lotus Tonwa Pitsanulok,"Tesco Lotus Tonwa No.444 Moo 6 Phisanulok-Nakornsawan Rd., Thathong, Muang, Phisanulok 65000",16.7991050,100.2166000,10:00:00,22:00:00,RBD,False
+222,2850,272534,Pizza Com Happy Plaza Phijit,"No.39/157-158, Nai Mueng, Mueng Phijit, Phijit, 66000",16.4397860,100.3417530,,,DLC,False
+415,1562,270301,Pizza Com Lotus Phetchaboon,"Tesco Lotus Phetchaboon No.929, Moo 2, Highway No.21 Rd. Sadeang, Muang, Phetchabun 67000",16.3965580,101.1375670,10:00:00,21:00:00,RBD,False
+185,2629,272518,Pizza Com Lomsak Phetchabun,"No.49-50, Tessaban 3 Rd., Lomsak, Lomsak, Phetchabun, 67110",16.7754440,101.2426940,,,DLC,False
+395,1357,270041,Pizza Com Robinson Ratchaburi,"Robinson Ratchaburi 2nd Floor, No.265, Srisuriyawong Rd., Nham-Mueng, Mueng, Ratchaburi 70000",13.5349140,99.8116280,10:00:00,21:00:00,RBD,False
+500,2665,272521,Pizza Com Ratchaburi,"No.8/6 Kathathorn Rd., Na Muang, Muang, Ratchaburi 70000",13.5366471,99.8191300,,,DLC,False
+470,2532,270831,Pizza Com Lotus Banpong,"Tesco Lotus Banpong No.110, Moo 5, Nong-Or, Bangpong, Ratchaburi 70110",13.7935530,99.9188380,10:00:00,22:00:00,RBD,False
+420,1351,270371,Pizza Com Robinson Kanchanaburi,"Robinson No.160/15-16 Sangchuto Rd., Bannuea, Mueng, Kanjanaburi 71000",14.0048660,99.5445820,10:00:00,21:00:00,RBD,False
+163,2699,272530,Pizza Com TMK Park Kanchanaburi,"TMK Park Kanchanaburi No.99/8 Moo 1, Sangchuto Rd., Thamakham, Muang, Kanchaburi 71000",14.0521250,99.5053540,,,DLC,False
+2297,3946,272157,Pizza Com Lotus Suphanburi,"Tesco Lotus Supanburi 2nd Floor, No.293, Moo 5, Tharahad, Muang, Suphanburi 72000",14.4692950,100.1294600,,,RBD,False
+2298,3947,272158,Pizza Com Robinson Supanburi,"Robinson Supanburi No.449, Moo 5, Tharahad, Mueng, Suphanburi 72000",14.4573800,100.1302510,,,RBD,False
+2299,3948,272159,Pizza Com Lotus U Thong,"Tesco Lotus U-Thong No.913, Moo 1, Malaiman Rd., U-Thong, U-Thong, Suphanburi 72160",14.3636730,99.8841680,,,RBD,False
+542,1364,270071,Pizza Com Lotus Nakornpathom,"Tesco Lotus Nakornpathom No.1048 Petchkasem Rd., Sanan Chan, Mueng, Nakhonpathom 73000",13.8081410,100.0526780,10:00:00,22:00:00,FSR,False
+6,2611,272515,Pizza Com Silpakorn Nakhonpathom,"No.51 Ratchawithi Road Sanam Chan, Mueang, Nakhonpathom 73000",13.8141830,100.0407830,,,DLC,False
+396,1423,270073,Pizza Com Big C Nakornpathom,"Big C Nakornpathom No.754 Petchkasem Rd., Huayjarakae, Muang Nakhon Pathom 73000",13.8125030,100.0731340,10:00:00,22:00:00,RBD,False
+183,2606,272513,Pizza Com Lotus Kamphaengsaen,"Tesco Lotus Kamphaengsaen No.9/2 Moo 7, Malaiman Rd., Toongkrapanghome, Kamphangsean, Nakornprathom 73140",13.9920720,99.9969930,,,DLC,False
+248,2146,203165,Pizza Com Lotus Nakornchaisri,"Tesco Lotus Nakornchaisri No. 68/2 Moo 2, Phetchkasem Rd., Tha Tamnak, Nakornchaisri, Nakornpathom 73120",13.7934770,100.1708570,10:00:00,22:00:00,DLC,False
+262,2159,201105,Pizza Com Central Salaya,"Central Salaya No.99/13-20 Moo 2, Boromratchachonnan Rd., Bangtoei, Samphran, Nakornpathom  73210",13.7866010,100.2764340,10:00:00,22:00:00,RBD,False
+1165,2216,203181,Pizza Com Putthamonthon Sai 4,"No.18/1 Moo 8, Putthamonthon Sai 4 Rd., Krathum Lom, Sam Phran, Nakhon Pathom 73220",13.7484590,100.3295630,10:00:00,22:00:00,DLC,False
+109,1287,203033,Pizza Com Oamyai,"No.23/64 Moo 8 Phetchakasem Rd., Omyai, Sampran, Nakornpratom 73160",13.7076200,100.2841400,10:00:00,22:00:00,DLC,False
+312,1404,203079,Pizza Com Salaya,"เลขที่ 136/23 Phutthamonthon Sai 4 Rd., Salaya, Phutthamonthon, Nakornpathom 73170",13.7926760,100.3278710,10:00:00,22:00:00,DLC,False
+581,2530,201123,Pizza Com Central Mahachai,Central Mahachai Fl.1 98 Moo.4 Tumbon Nadee Amphur Muang Samutsakorn 74000,13.5729360,100.2888490,10:00:00,21:00:00,RBD,False
+320,1419,203097,Pizza Com Ekachai,"No.19/6-7 Moo 9 Ekachai Rd., Kokkrabue, Muang, Samutsakorn 74000",13.6189210,100.3491710,10:00:00,00:30:00,DLC,False
+1184,1433,203118,Pizza Com Pantainorasing,"No.189/134 Moo 5 Rama 2 Rd., Pantainorasing, Mueng, Samutsakorn 74000",13.5964380,100.3648630,10:00:00,22:00:00,DLC,False
+292,1385,203070,Pizza Com Big C Mahachai 2,"Big C Super Center Mahachai 2 No.927/71 Ekkachai Rd., Khok Kham, Muang, Samut  Sakhon 74000",13.5594890,100.2930780,10:00:00,22:00:00,DLC,False
+246,1540,201086,Pizza Com Lotus Kratumban,No.389 Moo.1 Klongmadua Krathum Baen Samutsakorn 74110,13.6558330,100.2726720,10:00:00,22:00:00,RBD,False
+176,2658,272529,Pizza Com Samutsongkram,"132/3-4, Thang Kao Mueng Rd., Mae Klong, Mueng, Samutsongkram, 75000",13.4024880,100.0041350,,,DLC,False
+139,2670,270921,Pizza Com Big C Samutsongkhram,"Big C Super Center, No.2/19 Moo 1, Bang Kaeo, Mueang, Samutsongkhram 75000",13.4108720,100.0202000,,,FSR,False
+2349,3974,272563,Pizza Com PTT Wangmanao,No. 55/2 Moo 3 Tambon Houyrong Ampeur Kao-yoi Petchaburi 76140,13.3053710,99.8253920,,,DLC,False
+351,2202,203176,Pizza Com PTT Bor Kham,"No.805 Petchkasem Rd., Cha-Am, Cha-Am, Petchburi 76120",12.7463450,99.9605710,10:00:00,22:00:00,DLC,False
+523,2472,201119,Pizza Com Robinson Phetchaburi,"Robinson Phetchaburi Room 103 No.162 Moo 1 Samorplua, Banlad, Phetchaburi 76150",13.0627590,99.9456640,10:00:00,21:00:00,RBD,False
+1491,3383,272548,Pizza Com Lotus Prachuapkhirikhan,"Tesco Lotus Prachuapkhirikhan No.51/12 Phetkasem Rd., Ko Lak, Mueang Prachuap khiri Khun, Prachuap Khiri Khan 77000",11.7974890,99.7772790,,,DLC,False
+1425,3273,272132,Pizza Com Lotus Pranburi,"Tesco Lotus Pranburi No.706 Moo 7, Petchakasem Rd., Khaonoi, Pranburi, Prachuapkhirilkhan 77120",12.3921290,99.9187200,,,RBD,False
+1141,1593,201075,Pizza Com Market Village Huahin,"Market Village 2nd Floor., Lot D201, No.234/1 Petchakasem Rd., Huahin, Huahin, Prajubkirikhan 77110",12.5575010,99.9606460,10:00:00,22:00:00,FSR,False
+359,2203,203169,Pizza Com Thansamai Huahin,"No.8/3 Soi Huahin 56, Petchakasem Rd., Huahin, Huahin, Prachuap Khiri Khan 77110",12.5838520,99.9517610,10:00:00,23:00:00,DLC,False
+1176,2388,201115,Pizza Com Blu Port Hua-Hin,"Blu Port Huahin No.8/89 Soi Huahin 100, Petchakasem Rd., Nongkae, Huahin, Prachubkririchan 77110",12.5477730,99.9621600,10:00:00,21:30:00,RBD,False
+451,2276,270741,Pizza Com Shathai Nakornsrithammarat,No.1392 Sriprach Road Tumbon Thawang Amphur Muang  Nakornsrithammarat 80000,8.4412430,99.9631980,10:00:00,22:00:00,RBD,False
+1217,3056,272543,Pizza Com Tha Sala Nakhonsithammarat,"No.159/14 Moo 3 Tha Sala, Tha Sala, Nakhonsrithammarat 80160",8.6635960,99.9250980,,,DLC,False
+452,2277,270742,Pizza Com Sahathai Tungsong,"No.389 Moo 2, Chamai, Tung Song, Nakhon Si Thammarat 80110",8.1606700,99.6756750,10:00:00,21:00:00,RBD,False
+137,2372,270743,Pizza Com Central Nakornsrithammarat,"Central Nakornsrithammarat 3rd Floor, Room 311, No.8, 9/8 Moo 7, Na San, Phraphrom, Nakornsrithammarat 80000",8.3820320,99.9698040,10:00:00,20:00:00,RBD,False
+363,2966,272113,Pizza Com Vogue Krabi,"No.69/173 Maharat Rd., Paknam, Mueng, Krabi 81000",8.0641920,98.9155780,,,RBD,False
+2652,4170,272183,Pizza Com Lotus Krabi,"No. 191 Tesco Lotus Krabi Moo 12, Krabi-Noi, Muang, Krabi 81000",8.1082050,98.9384120,,,RBD,False
+87,2615,272517,Pizza Com Phi Phi Island,"Phi Phi Park Plaza, No.58/46 Moo 7, Aow Nang, Muang, Krabi, 81210",7.7390810,98.7704770,,,DLC,False
+184,2631,272516,Pizza Com Ao Nang Krabi,"No.247/1 Moo 2, Ao Nang Road, Ao Nang, Mueng, Krabi, 81000",8.0323000,98.8236000,,,DLC,False
+1063,2974,272112,Pizza Com PTT Phangnga,"PTT Phangnga Satation No.56/75 Moo 3, Tamnamphud, Muang, Phangnga 82000",8.4311200,98.5186900,,,RBD,False
+511,1327,201046,Pizza Com Coliseum Phuket,"No.61, 63 Tilokutit Rd., Taladyai, Muang, Phuket 83000",7.8780650,98.3940170,10:00:00,22:00:00,RBD,False
+181,2570,201127,Pizza Com Sam-Kong Phuket,"No.308/8 Yaowarat Rd., Taladyai, Muang, Phuket 83000",7.9068950,98.3740500,10:00:00,23:00:00,RBD,False
+1812,3571,272147,Pizza Com Lotus Phuket,"Tesco Lotus Phuket No.104 Moo 5, Charoemprakiat R.9 Rd., Ratsada, Mueng, Phuket 83000",7.9030650,98.3689450,,,FSR,False
+462,2633,270763,Pizza Com Central Phuket,"Central Festival Phuket No.74-75 Wichitsongkram Rd., Vichit, Muang, Phuket 83000",7.8928800,98.3684350,,,FSR,False
+538,1966,203154,Pizza Com Chao Fa Phuket,"No.97/183 Moo 4 Wirathongyok Rd., Vichit, Mueng, Phuket 83000",7.8809580,98.3736020,10:00:00,22:00:00,DLC,False
+94,2638,270385,Pizza Com Lotus Rawai,"Tesco Lotus Rawai Room S102, No.6/43 Moo 5, Rawai, Mueng, Phuket 83130",7.8154390,98.3403300,,,RBD,False
+377,2441,203200,Pizza Com Kathu Phuket,"No.16/97 Moo 2 Praphuketkaew Rd., Kathu, Kathu, Phuket 83120",7.9093093,98.3448746,10:00:00,00:30:00,DLC,False
+2516,4150,272179,Pizza Com Jungceylon Patong,"No.181 Room No.1102/1 Fl.G Rat Uthit 200 Pee Rd., Patong, Kathu, Phuket 83150",7.8921195,98.2984600,,,FSR,False
+429,2536,270545,Pizza Com Bangla,"No.39 Soi Bangla, Bangla Rd., Patong, Kratu, Phuket 83150",7.8935400,98.2981660,10:00:00,00:30:00,RBD,False
+428,2113,270543,Pizza Com Patong Beach Front,"No.94/1 Taweewong Rd., Patong, Krathu, Phuket 83150",7.8911790,98.2938740,10:00:00,00:30:00,RBD,False
+453,2309,270762,Pizza Com Lotus Thalang,"Tesco Lotus Thalang No.303 Moo 1 Thep Krasattri, Thalang, Phuket 83110",8.0204760,98.3367840,10:00:00,21:30:00,RBD,False
+2462,4088,272172,Pizza Com Robinson Thalang,"Robinson Thalang No.209 Moo 5 Si Sunthon Rd., Si Sunthon, Thalang, Phuket 83110",7.9805891,98.3624207,,,RBD,False
+461,2308,270761,Pizza Com Lotus Cherngtalay,"Tesco Lotus Cherngtalay No.474 Srisoonthon Rd., Cherngtalay, Talang, Phuket 83110",7.9864260,98.3016810,10:00:00,21:30:00,RBD,False
+91,2640,201134,Pizza Com Turtle Village,"No.889/1 Moo 3 Maikhao, Thalang, Phuket 83110",8.1690990,98.2969350,,,RBD,False
+1215,3052,272116,Pizza Com PTT Phuket Airport,"No.113/8 Moo1, Bann Nai Yang, Sakhu, Thalang, Phuket 83110",8.0942410,98.3085310,,,RBD,False
+394,1345,270023,Pizza Com Sahathai Surat,"No.548/6-7 Namueng Rd., Talad, Mueng, Suratthani 84000",9.1488160,99.3356590,10:00:00,21:00:00,RBD,False
+1398,3242,272130,Pizza Com Central Suratthani,"Central Suratthanee 3rd Floor, No.88 Moo 10, Suratthani-Sanambin Rd., Watpradu, Mueang, Suratthani 84000",9.1108960,99.3018330,,,RBD,False
+166,2572,201126,Pizza Com The Wharf Samui,"No.106/17 Moo 1, Bo Pud, Ko Samui, Suratthani 84140",9.5590520,100.0270860,10:00:00,00:30:00,RBD,False
+221,1347,201059,Pizza Com Samui,"No.202/3 Moo 2 Hat Chaweang Rd., Borput, Kao Samui, Suratthani 84320",9.5283020,100.0598460,10:00:00,00:30:00,RBD,False
+1438,3294,272547,Pizza Com Lotus Wiangsa,"Tesco Lotus Wiangsa No.222 Moo 1 Wiangsa, Wiangsa, Surat Thani 84190",8.6390480,99.3515400,,,DLC,False
+1183,2613,270383,Pizza Com Lotus Ranong,"Tesco Lotus Ranong, No.25/15 Moo 1, Phetchakasem Rd., Bangrin, Muang, Ranong 85000",9.9364670,98.6315120,,,RBD,False
+191,2623,270384,Pizza Com Krom Luang Chumphon Rd.,"No.23/4 Krom Luang Chumporn Rd., Tha tapao, Chumporn, 86000",10.5010590,99.1792170,,,RBD,False
+2364,3985,272161,Pizza Com Langsuan Chumphon,"No. 108/1 Morakot 2 Market Koa Nguen Rd Khan Ngoen, Lang Suan District, Chumphon 86110",9.9499786,99.0660350,,,RBD,False
+257,2169,201106,Pizza Com Lotus Songkla,"Tesco Lotus Songkhla No.64 Moo 2, Kanjanawanich Rd., Khao Rup Chang, Muang Songkhla, Songkhla 90000",7.1532230,100.6015710,10:00:00,22:00:00,RBD,False
+416,2120,201103,Pizza Com Central Festival Hadyai,"Central Fastival Hadyai 4th Floor, No.1518 Kanchanapisak Rd., Hadyai, Hadyai, Songkla 90110",6.9916760,100.4842600,10:00:00,21:00:00,FSR,False
+1878,3596,272149,Pizza Com Hadyai,"No.55/3 Sripuwana Rd., Hadyai, Hadyai, Songkla 90110",6.9983620,100.4782790,,,RBD,False
+411,1408,270251,Pizza Com Lotus Hadyai,"Tesco Lotus Hadyai No.142 Karnchanavanich Rd., Hadyai, Hadyai, Songkhla 90110",7.0076810,100.4909900,10:00:00,22:00:00,RBD,False
+337,1988,203155,Pizza Com Khet 8 Hadyai,"No.621 Ratutis Rd., Hadyai, Hadyai, Songkhla 90110",7.0173320,100.4552080,10:00:00,00:30:00,DLC,False
+2425,4048,203242,Pizza Com PTT Airport Hadyai,"No.955 Moo 1, Sanambin-Loburiramate Rd., Kuanlang, Hadyai, Songkhla 90110",6.9731557,100.4294932,,,DLC,False
+495,2541,270562,Pizza Com Big C Extra Hadyai,"Big C Extra Super Center Hadyai No.677 Phetchakasem Rd., Kho Hong, Hadyai, Songkhla 90110",7.0192140,100.4851110,10:00:00,22:00:00,RBD,False
+2082,3796,272556,Pizza Com Big C Satun,"Big C Super Center Satun No.959 Moo 7, Yontrakarn Khamthon Rd., Klongkhut, Mueng Satun, Satun 91000",6.6379820,100.0704930,,,DLC,False
+1397,3241,272128,Pizza Com Robinson Trang,"Robonsin Trang No.138 Phatthalung Rd., Tabthieng, Mueang, Trang 92000",7.5644179,99.6268488,,,RBD,False
+491,1392,270201,Pizza Com Siriban Trang,"Siriban Trang No.42 Choempanya Rd., Thapthiang, Mueng, Trang 92000",7.5612950,99.6159410,10:00:00,21:00:00,RBD,False
+2481,4108,272173,Pizza Com Lotus Phatthalung,No.115 Lotus Phatthalung Moo 2 Sai Asia Road Tumbon Khaojiak Amphur Muang Phatthalung 93000,7.6255350,100.0460360,,,RBD,False
+2665,4184,272186,Pizza Com Big C Pattanee,"No.301 Big C Pattanee Room GCR119, Moo 4 Rusamulea, Muang, Pattanee 94000",6.8622330,101.2314090,,,RBD,False
+442,2190,270701,Pizza Com Big C Pattanee,"BigC Pattanee Room GCR119, No.301 Moo 4 Rusamulea, Muang, Pattanee 94000",6.8622330,101.2314090,10:00:00,20:00:00,RBD,False
+497,2311,270731,Pizza Com Coliseum Yala,"No.505 Siroros Rd., Sateng, Mueng, Yala 95000",6.5588611,101.2884410,10:00:00,20:00:00,RBD,False
+2296,3945,272154,Pizza Com Big C Narathiwat,"Big C Supercenter Narathiwat No.42-145  Suriyapradit Road, Bangnak, Mueng, Narathiwat 96000",6.4161260,101.8141900,,,RBD,False
+2666,4185,272185,Happy Plaza Phijit,,,,,,RBD,False
